@@ -73,6 +73,13 @@
     "Creator":"	Liu Fuyuan",
     "Status":"ongoing"
   },
+ {
+    "id":20,
+    "CartoonName":"The Pink Panther",
+    "MainCharacter":["Panther"],
+    "Creator":"Blake Edwards",
+    "Status":"closed"
+  }
 
 
 ]
