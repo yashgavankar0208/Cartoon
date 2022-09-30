@@ -84,84 +84,63 @@
     "Status":"ongoing"  }
  },
  {
-    "id":11,
+    "id":12,
     "CartoonName":"Motu Patlu",
     "MainCharacter":"Motu Patlu",
     "Creator":"Niraj Vikram",
     "Status":"Ongoing"
  },
  {
-    "id":12,
+    "id":13,
     "CartoonName":"Courage The Cowardly Dog",
     "MainCharacter":"Muriel Bagge,Eustace Bagge",
     "Creator":"	John Dilworth",
     "Status":"completed"
   },
   {
-    "id":13,
+    "id":14,
     "CartoonName":"Oswald",
     "MainCharacter":["Oswald,Egbert"],
     "Creator":"Dan Yaccarino",
     "Status":"Ongoing"
   },
   {
-    "id":14,
+    "id":15,
     "CartoonName":"Shaun the sheep",
     "MainCharacter":["Shaun,Bitzer,Farmer"],
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
   {
-    "id":15,
+    "id":16,
     "CartoonName":"Oggy and the cockroaches",
     "MainCharacter":["Oggy, jack"],
     "Creator":"Jean-Yves Stephane Marcel Raimbaud ",
     "Status":"ongoing"
   },
 {
-    "id":11,
+    "id":17,
     "CartoonName":"shin chan",
     "MainCharacter":["shin chan"],
     "Creator":" fiu liyam",
     "Status":"ongoing"
   },
 {
-    "id":11,
+    "id":18,
     "CartoonName":"kitretsu",
     "MainCharacter":["kitretsu,corosuke"],
     "Creator":"	Liu",
     "Status":"ended"
-  }
-
-
-
-
-    "CartoonName":"Johnny Test",
-    "MainCharacter":["Johnny,Dukey"],
-    "Creator":"Scott Fellows",
-    "Status":"Completed"
   },
-
-    "CartoonName":"Dizzy Dishes",
-    "MainCharacter":["	Margie Hines,Billy Murray"],
-    "Creator":"Max Fleischer",
-    "Status":"Ongoing"
-
-
-    "CartoonName":"Pokemon",
-    "MainCharacter":["Ash,Pikachu"],
-    "Creator":"Satoshi Tajiri",
-    "Status":"ongoing"
-  }, 
   {
-    "id":16,
+    "id":19,
     "CartoonName":"oggy and the cockroaches",
     "MainCharacter":["Oggy,Olivia,Jack"],
     "Creator":"Jean-Yves Stephane Marcel Raimbaud",
     "Status":"Finished"
   },
   {
-    "id":17,
+    "id":20,
     "CartoonName":"Johnny Test",
     "MainCharacter":["Johnny,Dukey"],
     "Creator":"Scott Fellows",
@@ -169,7 +148,7 @@
   },
 
  {
-    "id":18,
+    "id":21,
     "CartoonName":"Super stricker",
     "MainCharacter":["shakes"],
     "Creator":"Jurgen Ulf Gutentag",
@@ -177,7 +156,7 @@
  
   },
 { 
-    "id":19,
+    "id":22,
  
     "CartoonName":"Barbie",
     "MainCharacter":["Elina"],
@@ -185,49 +164,45 @@
     "Status":"Completed"
   },
 {
-    "id":35,
+    "id":23,
     "CartoonName":"The Ren & Stimpy Show",
     "MainCharacter":["Ren Hoek"],
     "Creator":"John Kricfalusi",
     "Status":"Completed"
-  }
-
-    "CartoonName":"bunty bubbly",
-    "MainCharacter":["Bunty , Bubbly"],
-    "Creator":"Stephane Marcel Raimbaud",
-    "Status":"Finished"
-}
- main
-
- },
+  },
  {
-    "id":19,
+    "id":24,
     "CartoonName":"Oggy and Cockroaches",
     "MainCharacter":["Oggy"],
     "Creator":"Jean-Yves Stephane Marcel Raimbaud",
     "Status":"Completed"
- }
-
-
+ },
   {
-    "id":16,
+    "id":25,
     "CartoonName":"Horrid Henry",
     "MainCharacter":["Henry,Peter,Margot"],
     "Creator":"Francesca Simon",
     "Status":"ongoing"
   },
   {
-    "id":18,
+    "id":26,
     "CartoonName":"Doraemon",
     "MainCharacter":["Doraemon,Nobita"],
     "Creator":"fujiko fujiyo",
     "Status":"ongoing"
   },
 {
-    "id":20,
+    "id":27,
     "CartoonName":"Bandhudh Aur Budbak",
     "MainCharacter":["Badrinath And Budhdeb"],
     "Creator":"Aashish Mall,Mayank Patel and Animation Studio",
+    "Status":"ongoing"
+  },
+ {
+    "id":28,
+    "CartoonName":"Haddi mera buddi",
+    "MainCharacter":["Haddi"],
+    "Creator":"Billy and Mandy",
     "Status":"ongoing"
   },
 ]
