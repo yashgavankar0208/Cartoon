@@ -140,7 +140,6 @@
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
-
 {
     "id":17,
     "CartoonName":"Kick Buttowski",
@@ -186,38 +185,6 @@
     "Status":"ongoing"
   },
 {
-    "id":11,
-    "CartoonName":"shin chan",
-    "MainCharacter":["shin chan"],
-    "Creator":" fiu liyam",
-    "Status":"ongoing"
-  },
-{
-    "id":11,
-    "CartoonName":"kitretsu",
-    "MainCharacter":["kitretsu,corosuke"],
-    "Creator":"	Liu",
-    "Status":"ended"
-  }
-
-
-
-
-    "CartoonName":"Johnny Test",
-    "MainCharacter":["Johnny,Dukey"],
-    "Creator":"Scott Fellows",
-    "Status":"Completed"
-  },
-
-    "CartoonName":"Dizzy Dishes",
-    "MainCharacter":["	Margie Hines,Billy Murray"],
-    "Creator":"Max Fleischer",
-    "Status":"Ongoing"
-
-
-    "CartoonName":"Pokemon",
-    "MainCharacter":["Ash,Pikachu"],
-    "Creator":"Satoshi Tajiri",
     "id":17,
     "CartoonName":"shin chan",
     "MainCharacter":["shin chan"],
@@ -277,11 +244,19 @@
     "Status":"Completed"
  },
 {
+ 
+    "id":19,
+    "CartoonName":"Garfield",
+    "MainCharacter":["Garfield"],
+    "Creator":"Jim Davis",
+    "Status":"Completed"
+
     "id":20,
     "CartoonName":"bandbook budbak",
     "MainCharacter":["bandbook, budbak"],
     "Creator":"Aashish Mall",
     "Status":"Ongoing"
+ 
   }
 
 
@@ -301,19 +276,6 @@
     "Status":"ongoing"
   },
 {
-    "id":19,
-    "CartoonName":"Motu Patlu",
-    "MainCharacter":["Motu, Patlu"],
-    "Creator":"fujiko fujiyo",
-    "Status":"ongoing"
-  },
-{
-    "id":20,
-    "CartoonName":"Shaun The Sheep",
-    "MainCharacter":["Shaun,Bitzer,Timmy"],
-    "Creator":"Richard Starzak , Mark Burton",
-    "Status":"ongoing"
-  },
     "id":27,
     "CartoonName":"Bandhudh Aur Budbak",
     "MainCharacter":["Badrinath And Budhdeb"],
@@ -346,6 +308,14 @@
     "MainCharacter":["Popeye"],
     "Creator":"E. C. Segar",
     "Status":"ongoing"
+                     },
+{
+  "id":30,
+    "CartoonName":"Shaun the Sheep",
+    "MainCharacter":["Shaun, Timmy"],
+    "Creator":"Richard Starzak",
+    "Status":"ongoing"
+                     },
   },
 {
     "id":23,
