@@ -19,5 +19,48 @@
     "MainCharacter":"Ninja hattori,Shinzo hattori,Shishimaru,Kenichi mitsuba",
     "Creator":"Fujiko Fujio",
     "Status":"completed"
+  },
+  
+  {
+    "id":4,
+    "CartoonName":"dora",
+    "MainCharacter":"dora and different animals",
+    "Creator":"chris gifford",
+    "Status":"ongoing"
+
+  },
+  {
+    "id":5,
+    "CartoonName":"mr bean",
+    "MainCharacter":"mr bean , teady",
+    "Creator":"american",
+    "Status":"ongoing"
   }
+
+   {
+    "id":6,
+    "CartoonName":"Ben 10",
+    "MainCharacter":"Ben, Gwen, Grandpa Max",
+    "Creator":"Duncan Rouleau",
+    "Status":"ongoing"
+  },
+ {
+    "id":7,
+    "CartoonName":"Chotta Bheem",
+    "MainCharacter":"bheem, raju, chutki,kaliya",
+    "Creator":"Rajeev Chilaka",
+    "Status":"ongoing"
+  },
+
+  {
+    "id":8,
+    "CartoonName":"Tom And Jerry",
+    "MainCharacter":"Tom,Jerry",
+    "Creator":"William Hanna,Joseph Barbera",
+    "Status":"Ongoing"
+    
+
+  }
+
+
 ]
