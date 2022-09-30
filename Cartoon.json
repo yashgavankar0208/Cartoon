@@ -79,10 +79,12 @@
  {
     "id":11,
     "CartoonName":"bablu",
-    "MainCharacter":"Bablu,Dablu",
-    "Creator":"	Liu Fuyuan",
-    "Status":"ongoing"
-  },
+    "MainCharacter":"Bablu,Dablu"
+    "Creator":"Liu Fuyuan",
+    "Status":"ongoing"  
+ },
+
+
  {
     "id":11,
     "CartoonName":"Oggy and the Cockroaches",
@@ -97,6 +99,7 @@
     "Creator":"Avinash Aanand Kaushik Chawla",
     "Status":"ongoing"
   },
+
  {
     "id":11,
     "CartoonName":"Roll No 21",
@@ -122,7 +125,7 @@
     "id":13,
     "CartoonName":"Courage The Cowardly Dog",
     "MainCharacter":"Muriel Bagge,Eustace Bagge",
-    "Creator":"	John Dilworth",
+    "Creator":"John Dilworth",
     "Status":"completed"
 
   
@@ -162,10 +165,33 @@
     "MainCharacter":["mitsuo"],
     "Creator":"Fujiko F. Fujio",
     "Status":"ongoing"
-  }
+  },
 
+{
+     "id":21,
+    "CartoonName":"Johnny Test",
+    "MainCharacter":["Johnny,Dukey"],
+    "Creator":"Scott Fellows",
+    "Status":"Completed"
+  },
+  {
+     "id":22,
+    "CartoonName":"Dizzy Dishes",
+    "MainCharacter":["Margie Hines,Billy Murray"],
+    "Creator":"Max Fleischer",
+    "Status":"Ongoing"
+  },
 
-    "CartoonName":"Oggy and the Cockroches",
+   {
+  
+    "id":23,
+   "CartoonName":"Pokemon",
+    "MainCharacter":["Ash,Pikachu"],
+    "Creator":"Satoshi Tajiri",
+     "Status":"ongoing"
+   }
+
+{  "CartoonName":"Oggy and the Cockroches",
     "MainCharacter":["Oggy,cockroches,jack"],
     "Creator":"Jean-Yves Raimbaud",
     "Status":"ongoing"
@@ -236,6 +262,15 @@
     "Creator":"John Kricfalusi",
     "Status":"Completed"
   },
+
+{
+  "id":24,
+    "CartoonName":"bunty bubbly",
+    "MainCharacter":["Bunty , Bubbly"],
+    "Creator":"Stephane Marcel Raimbaud",
+    "Status":"Finished"
+},
+
  {
     "id":24,
     "CartoonName":"Oggy and Cockroaches",
@@ -243,6 +278,7 @@
     "Creator":"Jean-Yves Stephane Marcel Raimbaud",
     "Status":"Completed"
  },
+
 {
  
     "id":19,
@@ -257,7 +293,8 @@
     "Creator":"Aashish Mall",
     "Status":"Ongoing"
  
-  }
+  },
+
 
 
 
@@ -275,6 +312,15 @@
     "Creator":"fujiko fujiyo",
     "Status":"ongoing"
   },
+
+  {
+    "id":25,
+    "CartoonName":"Kiteresu",
+    "MainCharacter":["Kiteresu"],
+    "Creator":"Fujiko Fujio ",
+    "Status":"finished"
+  },
+
 {
     "id":27,
     "CartoonName":"Bandhudh Aur Budbak",
@@ -323,6 +369,6 @@
     "MainCharacter":["hero"],
     "Creator":"Chris Williams",
     "Status":"Completed"
-  },
+  }
   
 ]
