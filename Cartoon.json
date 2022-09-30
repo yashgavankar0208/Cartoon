@@ -12,10 +12,17 @@
     "MainCharacter":"Shinchan,Nohara Family,Kasukabe Defence Group",
     "Creator":"Yoshito Usui",
     "Status":"ongoing"
-
   },
   {
     "id":3,
+    "CartoonName":"Ninja hattori",
+    "MainCharacter":"Ninja hattori,Shinzo hattori,Shishimaru,Kenichi mitsuba",
+    "Creator":"Fujiko Fujio",
+    "Status":"completed"
+  },
+  
+  {
+    "id":4,
     "CartoonName":"dora",
     "MainCharacter":"dora and different animals",
     "Creator":"chris gifford",
@@ -23,7 +30,7 @@
 
   },
   {
-    "id":8,
+    "id":5,
     "CartoonName":"mr bean",
     "MainCharacter":"mr bean , teady",
     "Creator":"american",
@@ -31,14 +38,14 @@
   }
 
    {
-    "id":3,
+    "id":6,
     "CartoonName":"Ben 10",
     "MainCharacter":"Ben, Gwen, Grandpa Max",
     "Creator":"Duncan Rouleau",
     "Status":"ongoing"
   },
  {
-    "id":9,
+    "id":7,
     "CartoonName":"Chotta Bheem",
     "MainCharacter":"bheem, raju, chutki,kaliya",
     "Creator":"Rajeev Chilaka",
@@ -46,21 +53,37 @@
   },
 
   {
-    "id":10,
+    "id":8,
     "CartoonName":"Tom And Jerry",
     "MainCharacter":"Tom,Jerry",
     "Creator":"William Hanna,Joseph Barbera",
     "Status":"Ongoing"
     
   },
-{
-    "id":11,
+  {
+    "id":9,
     "CartoonName":"Ninja Hatodi",
     "MainCharacter":"hathdi,shinzo,yeumiko",
     "Creator":"Joseph Barbera",
     "Status":"Ongoing"
-    
+  },
+  
+  {
+    "id":10,
+    "CartoonName":"Ninja Hattori",
+    "MainCharacter":"Hattori",
+    "Creator":"Fujiko Fujio",
+    "Status":"Ongoing"    
+ }, 
+ 
+ {
+    "id":11,
+    "CartoonName":"bablu",
+    "MainCharacter":["Bablu,Dablu"],
+    "Creator":"	Liu Fuyuan",
+    "Status":"ongoing"
   }
+
 
 
 ]
