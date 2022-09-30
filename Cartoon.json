@@ -627,6 +627,26 @@
       "Status":"ongoing"
     },
     {
+
+        "id": 40,
+        "CartoonName": "Oggy And Cockroaches",
+        "MainCharacter": [
+            "Oggy"
+        ],
+        "Creator": "Jean-Yves msrcel raimbbaud",
+        "Status": "completed"
+    }
+  
+  {
+        "id": 41,
+        "CartoonName": "Teenage Mutant Ninja Turtles",
+        "MainCharacter": [
+            "Krang" , "Donatello" , "Super Shredder" , "Michelangelo"
+        ],
+        "Creator": ["Ciro Nieli" , "Joshua Sternin"],
+        "Status": "Completed"
+    }
+
       "id":2,
       "CartoonName":"Shinchan",
       "MainCharacter":"Shinchan,Nohara Family,Kasukabe Defence Group",
@@ -640,6 +660,7 @@
       "Creator":"Fujiko Fujio",
       "Status":"completed"
     },
+
     
     {
       "id":4,
