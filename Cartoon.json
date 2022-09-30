@@ -164,11 +164,26 @@
   },
 { 
     "id":19,
+ 
+    "CartoonName":"Barbie",
+    "MainCharacter":["Elina"],
+    "Creator":"Shinbo Naruma",
+    "Status":"Completed"
+  },
+{
+    "id":35,
+    "CartoonName":"The Ren & Stimpy Show",
+    "MainCharacter":["Ren Hoek"],
+    "Creator":"John Kricfalusi",
+    "Status":"Completed"
+  }
+
     "CartoonName":"bunty bubbly",
     "MainCharacter":["Bunty , Bubbly"],
     "Creator":"Stephane Marcel Raimbaud",
     "Status":"Finished"
 }
+ main
 
  },
  {
