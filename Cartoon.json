@@ -138,14 +138,23 @@
     "Status":"ongoing"
   },
 
-  }
+  
    {
-    "id":18,
+    "id":19,
     "CartoonName":"Hagemaru",
     "MainCharacter":["Hagemaru"],
     "Creator":"Shinbo Naruma",
     "Status":"Completed"
-  }
+  },
+    {
+    "id":32,
+    "CartoonName":"Selfie with bajrangi",
+    "MainCharacter":["Ankush,Bajrangi"],
+    "Creator":"Dheeraj Berry",
+    "Status":"Completed",
+  },
+  
+  
 
 
 ]
