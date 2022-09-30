@@ -74,5 +74,13 @@
     "Status":"ongoing"
   },
 
+  {
+    "id":11,
+    "CartoonName":"Oswald",
+    "MainCharacter":["Oswald,Egbert"],
+    "Creator":"Dan Yaccarino",
+    "Status":"Ongoing"
+  },
+
 
 ]
