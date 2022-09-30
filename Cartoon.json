@@ -182,6 +182,76 @@
       "Status":"Ongoing"
     },
   
+
+
+
+ {
+    "id":28,
+    "CartoonName":"Pink Panther",
+    "MainCharacter":["Pink Panther"],
+    "Creator":"Blake Edwards",
+    "Status":"Completed"
+  },
+ {
+    "id":29,
+    "CartoonName":"slugtera",
+    "MainCharacter":["Eli sahne"],
+    "Creator":"asaph fipke",
+    "Status":"Completed"
+  },
+{
+
+    "id":24,
+    "CartoonName":"Mickey Mouse ClubHouse",
+    "MainCharacter":["Mickey Mouse"],
+    "Creator":"Roberts Gannaway",
+    "Status":"Completed"
+
+
+  },
+{
+    "id":25,
+    "CartoonName":"Tom and Jerry",
+    "MainCharacter":["Tom and Jerry"],
+    "Creator":" William Hanna and Joseph Barbera",
+    "Status":"Completed"
+  },
+{
+    "id":35,
+    "CartoonName":"Motu Patlu",
+    "MainCharacter":["Motu Patlu"]
+},
+{
+
+    "id":35,
+    "CartoonName":"Chota Bheem",
+    "MainCharacter":["chota bheem,chutki"],
+    "Creator":"Rajiv Chilaka",
+    "Status":"Completed"
+  },
+
+{
+    "id":25,
+
+    "CartoonName":"Mickey Mouse",
+    "MainCharacter":["Mickey"],
+    "Creator":"Walt Disney",
+    "Status":"Contract Over"
+},
+   { "CartoonName":"Motu Patlu",
+    "MainCharacter":[",otu Patlu"],
+
+    "Creator":"Harvinder Mankkar",
+    "Status":"Completed"
+
+
+  },
+
+    {  "id":18,
+      "CartoonName":"Doraemon",
+      "MainCharacter":["Doraemon,Nobita"],
+      "Creator":"fujiko fujiyo"
+    },
      {
     
       "id":23,
@@ -196,6 +266,7 @@
      "CartoonName":"Oggy and the Cockroches",
       "MainCharacter":["Oggy,cockroches,jack"],
       "Creator":"Jean-Yves Raimbaud",
+
       "Status":"ongoing"
     },
   
@@ -640,6 +711,17 @@
           "Creator": "Jean-Yves msrcel raimbbaud",
           "Status": "completed"
       },
+
+      {
+        "id": 554,
+        "CartoonName": "Jackie Chan",
+        "MainCharacter": [
+            "Jackie"
+        ],
+        "Creator": "Jean-Yves msrcel raimbbaud",
+        "Status": "Married"
+      },
+  
     
     {
           "id": 41,
@@ -1319,4 +1401,5 @@
     ]
     
   
+
   
