@@ -75,8 +75,8 @@
   },
  {
     "id":11,
-    "CartoonName":"oggy",
-    "MainCharacter":["Oggy and the Cockroaches"],
+    "CartoonName":"Oggy and the Cockroaches",
+    "MainCharacter":["oggy"],
     "Creator":"Jean-Yves Stephane Marcel Raimbaud",
     "Status":"ongoing"
   },
