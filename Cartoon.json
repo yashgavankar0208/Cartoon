@@ -382,7 +382,14 @@
     "CartoonName":"Pink Panther",
     "MainCharacter":["Pink Panther"],
     "Creator":"Blake Edwards",
-    "Status":"completed"
+    "Status":"Completed"
+  },
+ {
+    "id":29,
+    "CartoonName":"slugtera",
+    "MainCharacter":["Eli sahne"],
+    "Creator":"asaph fipke",
+    "Status":"Completed"
   }
 
 ]
