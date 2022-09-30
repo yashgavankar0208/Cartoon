@@ -1,4 +1,164 @@
 [
+
+  {
+    "id":1,
+    "CartoonName":"Doraemon",
+    "MainCharacter":["Doraemon,Nobita"],
+    "Creator":"fujiko fujiyo",
+    "Status":"ongoing"
+  },
+  {
+    "id":2,
+    "CartoonName":"Shinchan",
+    "MainCharacter":"Shinchan,Nohara Family,Kasukabe Defence Group",
+    "Creator":"Yoshito Usui",
+    "Status":"ongoing"
+  },
+  {
+    "id":3,
+    "CartoonName":"Ninja hattori",
+    "MainCharacter":"Ninja hattori,Shinzo hattori,Shishimaru,Kenichi mitsuba",
+    "Creator":"Fujiko Fujio",
+    "Status":"completed"
+  },
+  
+  {
+    "id":4,
+    "CartoonName":"dora",
+    "MainCharacter":"dora and different animals",
+    "Creator":"chris gifford",
+    "Status":"ongoing"
+
+  },
+  {
+    "id":5,
+    "CartoonName":"mr bean",
+    "MainCharacter":"mr bean , teady",
+    "Creator":"american",
+    "Status":"ongoing"
+  },
+
+   {
+    "id":6,
+    "CartoonName":"Ben 10",
+    "MainCharacter":"Ben, Gwen, Grandpa Max",
+    "Creator":"Duncan Rouleau",
+    "Status":"ongoing"
+  },
+ {
+    "id":7,
+    "CartoonName":"Chotta Bheem",
+    "MainCharacter":"bheem, raju, chutki,kaliya",
+    "Creator":"Rajeev Chilaka",
+    "Status":"ongoing"
+  },
+
+  {
+    "id":8,
+    "CartoonName":"Tom And Jerry",
+    "MainCharacter":"Tom,Jerry",
+    "Creator":"William Hanna,Joseph Barbera",
+    "Status":"Ongoing"    
+  },
+  {
+    "id":9,
+    "CartoonName":"Ninja Hattori",
+    "MainCharacter":"Hattori",
+    "Creator":"Fujiko Fujio",
+    "Status":"Ongoing"    
+ }, 
+ {
+    "id":10,
+    "CartoonName":"bablu",
+    "MainCharacter":["Bablu,Dablu"],
+    "Creator":"	Liu Fuyuan",
+    "Status":"ongoing"
+ },
+ {
+    "id":11,
+    "CartoonName":"Motu Patlu",
+    "MainCharacter":["Motu,Patlu"],
+    "Creator":"Niraj Vikram",
+    "Status":"Ongoing"
+ },
+ {
+    "id":12,
+    "CartoonName":"Courage The Cowardly Dog",
+    "MainCharacter":["Muriel Bagge,Eustace Bagge"],
+    "Creator":"	John Dilworth",
+    "Status":"completed"
+  },
+  {
+    "id":13,
+    "CartoonName":"Oswald",
+    "MainCharacter":["Oswald,Egbert"],
+    "Creator":"Dan Yaccarino",
+    "Status":"Ongoing"
+  },
+  {
+    "id":14,
+    "CartoonName":"Shaun the sheep",
+    "MainCharacter":["Shaun,Bitzer,Farmer"],
+    "Creator":"Nick Park",
+    "Status":"ongoing"
+  },
+  {
+    "id":15,
+    "CartoonName":"Pokemon",
+    "MainCharacter":["Ash,Pikachu"],
+    "Creator":"Satoshi Tajiri",
+    "Status":"ongoing"
+  }, 
+  {
+    "id":16,
+    "CartoonName":"oggy and the cockroaches",
+    "MainCharacter":["Oggy,Olivia,Jack"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
+    "Status":"Finished"
+  },
+{
+  "id":15,
+  "CartoonName":"Horrid Henry",
+    "MainCharacter":["Henry"],
+   "Creator":" Carl Thomas Anderson",
+   "Status":"Finished"
+  },
+  {
+    "id":17,
+    "CartoonName":"Johnny Test",
+    "MainCharacter":["Johnny,Dukey"],
+    "Creator":"Scott Fellows",
+    "Status":"Completed"
+
+  },
+ {
+    "id":18,
+    "CartoonName":"Doraemon",
+    "MainCharacter":["Doraemon,Nobita"],
+    "Creator":"fujiko fujiyo",
+    "Status":"ongoing"
+  },
+
+  
+   {
+    "id":19,
+    "CartoonName":"Hagemaru",
+    "MainCharacter":["Hagemaru"],
+    "Creator":"Shinbo Naruma",
+    "Status":"Completed"
+  },
+    {
+    "id":32,
+    "CartoonName":"Selfie with bajrangi",
+    "MainCharacter":["Ankush,Bajrangi"],
+    "Creator":"Dheeraj Berry",
+    "Status":"Completed",
+  },
+  
+  
+
+
+
     {
         "id": 1,
         "CartoonName": "Doraemon",
@@ -354,4 +514,5 @@
         "Status": "completed"
     }
     
+
 ]
