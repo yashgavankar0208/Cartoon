@@ -114,6 +114,34 @@
   {
     "id":15,
 
+ 
+    "CartoonName":"spongebob squarepants",
+    "MainCharacter":[",patrick"],
+    "Creator":"Stephen Hillenburg",
+    "Status":"ongoing"
+  },
+
+    "CartoonName":"Oggy and the cockroaches",
+    "MainCharacter":["Oggy, jack"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud ",
+    "Status":"ongoing"
+  },
+{
+    "id":11,
+    "CartoonName":"shin chan",
+    "MainCharacter":["shin chan"],
+    "Creator":" fiu liyam",
+    "Status":"ongoing"
+  },
+{
+    "id":11,
+    "CartoonName":"kitretsu",
+    "MainCharacter":["kitretsu,corosuke"],
+    "Creator":"	Liu",
+    "Status":"ended"
+  }
+
+
 
 
     "CartoonName":"Johnny Test",
@@ -156,7 +184,32 @@
     "Creator":"Jurgen Ulf Gutentag",
     "Status":"Completed"
   },
-  {
+
+ 
+{ 
+    "id":19,
+ 
+    "CartoonName":"Barbie",
+    "MainCharacter":["Elina"],
+    "Creator":"Shinbo Naruma",
+    "Status":"Completed"
+  },
+{
+    "id":35,
+    "CartoonName":"The Ren & Stimpy Show",
+    "MainCharacter":["Ren Hoek"],
+    "Creator":"John Kricfalusi",
+    "Status":"Completed"
+  }
+
+    "CartoonName":"bunty bubbly",
+    "MainCharacter":["Bunty , Bubbly"],
+    "Creator":"Stephane Marcel Raimbaud",
+    "Status":"Finished"
+}
+
+ },
+ {
     "id":19,
     "CartoonName":"Barbie",
     "MainCharacter":["Elina"],
@@ -173,4 +226,25 @@
 
 
 
+  {
+    "id":16,
+    "CartoonName":"Horrid Henry",
+    "MainCharacter":["Henry,Peter,Margot"],
+    "Creator":"Francesca Simon",
+    "Status":"ongoing"
+  },
+  {
+    "id":18,
+    "CartoonName":"Doraemon",
+    "MainCharacter":["Doraemon,Nobita"],
+    "Creator":"fujiko fujiyo",
+    "Status":"ongoing"
+  },
+{
+    "id":19,
+    "CartoonName":"Motu Patlu",
+    "MainCharacter":["Motu, Patlu"],
+    "Creator":"fujiko fujiyo",
+    "Status":"ongoing"
+  },
 ]
