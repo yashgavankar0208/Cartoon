@@ -101,6 +101,13 @@
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
+  {
+    "id":15,
+    "CartoonName":"Dizzy Dishes",
+    "MainCharacter":["	Margie Hines,Billy Murray"],
+    "Creator":"Max Fleischer",
+    "Status":"Ongoing"
+  }
 
 
 ]
