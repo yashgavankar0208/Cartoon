@@ -35,7 +35,7 @@
     "MainCharacter":"mr bean , teady",
     "Creator":"american",
     "Status":"ongoing"
-  }
+  },
 
    {
     "id":6,
@@ -101,8 +101,15 @@
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
-{
-    "id":14,
+  {
+    "id":15,
+    "CartoonName":"Pokemon",
+    "MainCharacter":["Ash,Pikachu"],
+    "Creator":"Satoshi Tajiri",
+    "Status":"ongoing"
+  }, 
+  {
+    "id":16,
     "CartoonName":"oggy and the cockroaches",
     "MainCharacter":["Oggy,Olivia,Jack"],
     "Creator":"Jean-Yves Stephane Marcel Raimbaud",
@@ -115,4 +122,19 @@
    "Creator":" Carl Thomas Anderson",
    "Status":"Finished"
   },
+  {
+    "id":17,
+    "CartoonName":"Johnny Test",
+    "MainCharacter":["Johnny,Dukey"],
+    "Creator":"Scott Fellows",
+    "Status":"Completed"
+  }
+   {
+    "id":18,
+    "CartoonName":"Hagemaru",
+    "MainCharacter":["Hagemaru"],
+    "Creator":"Shinbo Naruma",
+    "Status":"Completed"
+  }
+
 ]
