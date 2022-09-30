@@ -81,40 +81,99 @@
     "CartoonName":"bablu",
     "MainCharacter":"Bablu,Dablu",
     "Creator":"	Liu Fuyuan",
-    "Status":"ongoing"  }
- },
+    "Status":"ongoing"
+  },
  {
     "id":11,
+    "CartoonName":"Oggy and the Cockroaches",
+    "MainCharacter":["oggy"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
+    "Status":"ongoing"
+  },
+{
+    "id":11,
+    "CartoonName":"Roll No 21"
+    "MainCharacter":["Krish and Kanishk"],
+    "Creator":"Avinash Aanand Kaushik Chawla",
+    "Status":"ongoing"
+  },
+ {
+    "id":11,
+    "CartoonName":"Roll No 21",
+    "MainCharacter":["Kris and Kanishk"],
+    "Creator":"	Avinash Aanand Kaushik Chawla",
+    "Status":"ongoing"
+  },
+{
+    "id":11,
+    "CartoonName":"Mighty-Raju",
+    "MainCharacter":["Raju"],
+    "Creator":"	Radhakrishnan Sonam Shekhawat",
+    "Status":"ongoing"  
+ },
+ {
+    "id":12,
     "CartoonName":"Motu Patlu",
     "MainCharacter":"Motu Patlu",
     "Creator":"Niraj Vikram",
     "Status":"Ongoing"
  },
  {
-    "id":12,
+    "id":13,
     "CartoonName":"Courage The Cowardly Dog",
     "MainCharacter":"Muriel Bagge,Eustace Bagge",
     "Creator":"	John Dilworth",
     "Status":"completed"
-  },
+
+  
   {
-    "id":13,
+    "id":14,
     "CartoonName":"Oswald",
     "MainCharacter":["Oswald,Egbert"],
     "Creator":"Dan Yaccarino",
     "Status":"Ongoing"
   },
   {
-    "id":14,
+    "id":15,
     "CartoonName":"Shaun the sheep",
     "MainCharacter":["Shaun,Bitzer,Farmer"],
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
+
+{
+    "id":17,
+    "CartoonName":"Kick Buttowski",
+    "MainCharacter":["Kick(Clarence),Gunther,Brad"],
+    "Creator":"Sandro Corsaro",
+    "Status":"re launching"
+  }
+  {
+    "id":16,
+    "id":15,
+    "CartoonName":"Roll no 21",
+    "MainCharacter":["Kris"],
+    "Creator":"Cosmos Entertainment",
+    "Status":"ongoing"
+  },
+
+{
+    "id":15,
+    "CartoonName":"Perman",
+    "MainCharacter":["mitsuo"],
+    "Creator":"Fujiko F. Fujio",
+    "Status":"ongoing"
+  }
+
+
+    "CartoonName":"Oggy and the Cockroches",
+    "MainCharacter":["Oggy,cockroches,jack"],
+    "Creator":"Jean-Yves Raimbaud",
+    "Status":"ongoing"
+  }
+
   {
     "id":15,
-
- 
     "CartoonName":"spongebob squarepants",
     "MainCharacter":[",patrick"],
     "Creator":"Stephen Hillenburg",
@@ -159,17 +218,28 @@
     "CartoonName":"Pokemon",
     "MainCharacter":["Ash,Pikachu"],
     "Creator":"Satoshi Tajiri",
+    "id":17,
+    "CartoonName":"shin chan",
+    "MainCharacter":["shin chan"],
+    "Creator":" fiu liyam",
     "Status":"ongoing"
-  }, 
+  },
+{
+    "id":18,
+    "CartoonName":"kitretsu",
+    "MainCharacter":["kitretsu,corosuke"],
+    "Creator":"	Liu",
+    "Status":"ended"
+  },
   {
-    "id":16,
+    "id":19,
     "CartoonName":"oggy and the cockroaches",
     "MainCharacter":["Oggy,Olivia,Jack"],
     "Creator":"Jean-Yves Stephane Marcel Raimbaud",
     "Status":"Finished"
   },
   {
-    "id":17,
+    "id":20,
     "CartoonName":"Johnny Test",
     "MainCharacter":["Johnny,Dukey"],
     "Creator":"Scott Fellows",
@@ -177,17 +247,15 @@
   },
 
  {
-
-    "id":18,
+    "id":21,
     "CartoonName":"Super stricker",
     "MainCharacter":["shakes"],
     "Creator":"Jurgen Ulf Gutentag",
     "Status":"Completed"
-  },
-
  
+  },
 { 
-    "id":19,
+    "id":22,
  
     "CartoonName":"Barbie",
     "MainCharacter":["Elina"],
@@ -195,27 +263,19 @@
     "Status":"Completed"
   },
 {
-    "id":35,
+    "id":23,
     "CartoonName":"The Ren & Stimpy Show",
     "MainCharacter":["Ren Hoek"],
     "Creator":"John Kricfalusi",
     "Status":"Completed"
-  }
-
-    "CartoonName":"bunty bubbly",
-    "MainCharacter":["Bunty , Bubbly"],
-    "Creator":"Stephane Marcel Raimbaud",
-    "Status":"Finished"
-}
-
- },
- {
-    "id":19,
-    "CartoonName":"Barbie",
-    "MainCharacter":["Elina"],
-    "Creator":"Shinbo Naruma",
-    "Status":"Completed"
   },
+ {
+    "id":24,
+    "CartoonName":"Oggy and Cockroaches",
+    "MainCharacter":["Oggy"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
+    "Status":"Completed"
+ },
 {
     "id":20,
     "CartoonName":"bandbook budbak",
@@ -227,14 +287,14 @@
 
 
   {
-    "id":16,
+    "id":25,
     "CartoonName":"Horrid Henry",
     "MainCharacter":["Henry,Peter,Margot"],
     "Creator":"Francesca Simon",
     "Status":"ongoing"
   },
   {
-    "id":18,
+    "id":26,
     "CartoonName":"Doraemon",
     "MainCharacter":["Doraemon,Nobita"],
     "Creator":"fujiko fujiyo",
@@ -254,4 +314,32 @@
     "Creator":"Richard Starzak , Mark Burton",
     "Status":"ongoing"
   },
+    "id":27,
+    "CartoonName":"Bandhudh Aur Budbak",
+    "MainCharacter":["Badrinath And Budhdeb"],
+    "Creator":"Aashish Mall,Mayank Patel and Animation Studio",
+    "Status":"ongoing"
+  },
+ {
+    "id":28,
+    "CartoonName":"Haddi mera buddi",
+    "MainCharacter":["Haddi"],
+    "Creator":"Billy and Mandy",
+    "Status":"ongoing"
+  },
+   {
+    "id":29,
+    "CartoonName":"Teen Titans GO!",
+    "MainCharacter":["Robin, Raven, Beast boy"],
+    "Creator":" Aaron Horvath",
+    "Status":"ongoing"
+  }
+{
+  "id":29,
+    "CartoonName":"Popeye- The Sailor Man",
+    "MainCharacter":["Popeye"],
+    "Creator":"E. C. Segar",
+    "Status":"ongoing"
+                     },
+  
 ]
