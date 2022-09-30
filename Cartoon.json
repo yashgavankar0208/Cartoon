@@ -233,4 +233,12 @@
     "Creator":"Billy and Mandy",
     "Status":"ongoing"
   }
+{
+    "id":20,
+    "CartoonName":"Simba",
+    "MainCharacter":["Simba"],
+    "Creator":"Irene Mecchi, Jonathan Roberts and Linda Woolverton",
+    "Status":"Completed"
+  }
+  
 ]
