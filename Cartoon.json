@@ -57,31 +57,21 @@
     "CartoonName":"Tom And Jerry",
     "MainCharacter":"Tom,Jerry",
     "Creator":"William Hanna,Joseph Barbera",
-    "Status":"Ongoing"
-    
+    "Status":"Ongoing"    
   },
   {
     "id":9,
-    "CartoonName":"Ninja Hatodi",
-    "MainCharacter":"hathdi,shinzo,yeumiko",
-    "Creator":"Joseph Barbera",
-    "Status":"Ongoing"
-  },
-  
-  {
-    "id":10,
     "CartoonName":"Ninja Hattori",
     "MainCharacter":"Hattori",
     "Creator":"Fujiko Fujio",
     "Status":"Ongoing"    
  }, 
- 
  {
-    "id":11,
+    "id":10,
     "CartoonName":"bablu",
     "MainCharacter":["Bablu,Dablu"],
     "Creator":"	Liu Fuyuan",
-    "Status":"ongoing"  }
+    "Status":"ongoing"
  },
  {
     "id":11,
@@ -131,6 +121,12 @@
     "MainCharacter":["Johnny,Dukey"],
     "Creator":"Scott Fellows",
     "Status":"Completed"
-  },
-
+  }
+   {
+    "id":18,
+    "CartoonName":"Hagemaru",
+    "MainCharacter":["Hagemaru"],
+    "Creator":"Shinbo Naruma",
+    "Status":"Completed"
+  }
 ]
