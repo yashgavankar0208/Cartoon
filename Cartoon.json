@@ -35,7 +35,7 @@
     "MainCharacter":"mr bean , teady",
     "Creator":"american",
     "Status":"ongoing"
-  }
+  },
 
    {
     "id":6,
@@ -69,21 +69,21 @@
  {
     "id":10,
     "CartoonName":"bablu",
-    "MainCharacter":["Bablu,Dablu"],
+    "MainCharacter":"Bablu,Dablu",
     "Creator":"	Liu Fuyuan",
     "Status":"ongoing"
  },
  {
     "id":11,
     "CartoonName":"Motu Patlu",
-    "MainCharacter":["Motu,Patlu"],
+    "MainCharacter":"Motu Patlu",
     "Creator":"Niraj Vikram",
     "Status":"Ongoing"
  },
  {
     "id":12,
     "CartoonName":"Courage The Cowardly Dog",
-    "MainCharacter":["Muriel Bagge,Eustace Bagge"],
+    "MainCharacter":"Muriel Bagge,Eustace Bagge",
     "Creator":"	John Dilworth",
     "Status":"completed"
   },
@@ -101,6 +101,11 @@
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
-
-
+  {
+    "id":15,
+    "CartoonName":"Johnny Test",
+    "MainCharacter":["Johnny,Dukey"],
+    "Creator":"Scott Fellows",
+    "Status":"Completed"
+  },
 ]
