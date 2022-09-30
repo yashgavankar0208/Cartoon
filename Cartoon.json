@@ -103,6 +103,12 @@
   },
   {
     "id":15,
+
+    "CartoonName":"Dizzy Dishes",
+    "MainCharacter":["	Margie Hines,Billy Murray"],
+    "Creator":"Max Fleischer",
+    "Status":"Ongoing"
+
     "CartoonName":"Pokemon",
     "MainCharacter":["Ash,Pikachu"],
     "Creator":"Satoshi Tajiri",
@@ -127,7 +133,7 @@
     "CartoonName":"Johnny Test",
     "MainCharacter":["Johnny,Dukey"],
     "Creator":"Scott Fellows",
-    "Status":"Completed"
+    "Status":"Completed",
 
   },
  {
