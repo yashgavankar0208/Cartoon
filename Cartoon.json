@@ -85,6 +85,20 @@
   },
  {
     "id":11,
+    "CartoonName":"Oggy and the Cockroaches",
+    "MainCharacter":["oggy"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
+    "Status":"ongoing"
+  },
+{
+    "id":11,
+    "CartoonName":"Roll No 21"
+    "MainCharacter":["Krish and Kanishk"],
+    "Creator":"Avinash Aanand Kaushik Chawla",
+    "Status":"ongoing"
+  },
+ {
+    "id":11,
     "CartoonName":"Roll No 21",
     "MainCharacter":["Kris and Kanishk"],
     "Creator":"	Avinash Aanand Kaushik Chawla",
@@ -281,8 +295,14 @@
     "MainCharacter":["Robin, Raven, Beast boy"],
     "Creator":" Aaron Horvath",
     "Status":"ongoing"
-  }
+  },
 {
+    "id":22,
+    "CartoonName":"Simba",
+    "MainCharacter":["Simba"],
+    "Creator":"Irene Mecchi, Jonathan Roberts and Linda Woolverton",
+    "Status":"Completed"
+  },
   "id":29,
     "CartoonName":"Popeye- The Sailor Man",
     "MainCharacter":["Popeye"],
@@ -296,5 +316,13 @@
     "Creator":"Richard Starzak",
     "Status":"ongoing"
                      },
+  },
+{
+    "id":23,
+    "CartoonName":"hero",
+    "MainCharacter":["hero"],
+    "Creator":"Chris Williams",
+    "Status":"Completed"
+  },
   
 ]
