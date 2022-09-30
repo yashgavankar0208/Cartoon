@@ -111,14 +111,6 @@
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
-{
-    "id":15,
-    "CartoonName":"Oggy and the Cockroches",
-    "MainCharacter":["Oggy,cockroches,jack"],
-    "Creator":"Jean-Yves Raimbaud",
-    "Status":"ongoing"
-  }
-
   {
     "id":15,
 
@@ -134,6 +126,20 @@
     "Creator":"Jean-Yves Stephane Marcel Raimbaud ",
     "Status":"ongoing"
   },
+{
+    "id":11,
+    "CartoonName":"shin chan",
+    "MainCharacter":["shin chan"],
+    "Creator":" fiu liyam",
+    "Status":"ongoing"
+  },
+{
+    "id":11,
+    "CartoonName":"kitretsu",
+    "MainCharacter":["kitretsu,corosuke"],
+    "Creator":"	Liu",
+    "Status":"ended"
+  }
 
 
 
@@ -211,19 +217,11 @@
     "Status":"Completed"
   },
 {
- 
-    "id":19,
-    "CartoonName":"Garfield",
-    "MainCharacter":["Garfield"],
-    "Creator":"Jim Davis",
-    "Status":"Completed"
-
     "id":20,
     "CartoonName":"bandbook budbak",
     "MainCharacter":["bandbook, budbak"],
     "Creator":"Aashish Mall",
     "Status":"Ongoing"
- 
   }
 
 
@@ -244,18 +242,16 @@
   },
 {
     "id":19,
-    "CartoonName":"Teen Titans Go",
-    "MainCharacter":["Robin,starfire"],
-    "Creator":"E.E. Rock",
+    "CartoonName":"Motu Patlu",
+    "MainCharacter":["Motu, Patlu"],
+    "Creator":"fujiko fujiyo",
     "Status":"ongoing"
   },
-
- {
-    "id":19,
-    "CartoonName":"Haddi mera buddi",
-    "MainCharacter":["Haddi"],
-    "Creator":"Billy and Mandy",
+{
+    "id":20,
+    "CartoonName":"Shaun The Sheep",
+    "MainCharacter":["Shaun,Bitzer,Timmy"],
+    "Creator":"Richard Starzak , Mark Burton",
     "Status":"ongoing"
-  }
- 
+  },
 ]
