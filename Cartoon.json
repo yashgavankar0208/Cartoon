@@ -113,6 +113,7 @@
   },
   {
     "id":15,
+
  
     "CartoonName":"spongebob squarepants",
     "MainCharacter":[",patrick"],
@@ -176,13 +177,15 @@
   },
 
  {
+
     "id":18,
     "CartoonName":"Super stricker",
     "MainCharacter":["shakes"],
     "Creator":"Jurgen Ulf Gutentag",
     "Status":"Completed"
- 
   },
+
+ 
 { 
     "id":19,
  
@@ -208,11 +211,19 @@
  },
  {
     "id":19,
-    "CartoonName":"Oggy and Cockroaches",
-    "MainCharacter":["Oggy"],
-    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
+    "CartoonName":"Barbie",
+    "MainCharacter":["Elina"],
+    "Creator":"Shinbo Naruma",
     "Status":"Completed"
- }
+  },
+{
+    "id":20,
+    "CartoonName":"bandbook budbak",
+    "MainCharacter":["bandbook, budbak"],
+    "Creator":"Aashish Mall",
+    "Status":"Ongoing"
+  }
+
 
 
   {
