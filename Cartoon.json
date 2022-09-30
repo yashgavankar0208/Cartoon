@@ -103,9 +103,62 @@
   },
   {
     "id":15,
+
     "CartoonName":"Johnny Test",
     "MainCharacter":["Johnny,Dukey"],
     "Creator":"Scott Fellows",
     "Status":"Completed"
   },
+
+    "CartoonName":"Dizzy Dishes",
+    "MainCharacter":["	Margie Hines,Billy Murray"],
+    "Creator":"Max Fleischer",
+    "Status":"Ongoing"
+
+    "CartoonName":"Pokemon",
+    "MainCharacter":["Ash,Pikachu"],
+    "Creator":"Satoshi Tajiri",
+    "Status":"ongoing"
+  }, 
+  {
+    "id":16,
+    "CartoonName":"oggy and the cockroaches",
+    "MainCharacter":["Oggy,Olivia,Jack"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
+    "Status":"Finished"
+  },
+{
+  "id":15,
+  "CartoonName":"Horrid Henry",
+    "MainCharacter":["Henry"],
+   "Creator":" Carl Thomas Anderson",
+   "Status":"Finished"
+  },
+  {
+    "id":17,
+    "CartoonName":"Johnny Test",
+    "MainCharacter":["Johnny,Dukey"],
+    "Creator":"Scott Fellows",
+    "Status":"Completed",
+
+  },
+ {
+    "id":18,
+    "CartoonName":"Doraemon",
+    "MainCharacter":["Doraemon,Nobita"],
+    "Creator":"fujiko fujiyo",
+    "Status":"ongoing"
+  },
+
+  }
+   {
+    "id":18,
+    "CartoonName":"Hagemaru",
+    "MainCharacter":["Hagemaru"],
+    "Creator":"Shinbo Naruma",
+    "Status":"Completed"
+  }
+
+
+
 ]
