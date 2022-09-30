@@ -84,6 +84,13 @@
     "Status":"ongoing"
   },
  {
+    "id":20,
+    "CartoonName":"The Pink Panther",
+    "MainCharacter":["Panther"],
+    "Creator":"Blake Edwards",
+    "Status":"closed"
+  }
+
     "id":11,
     "CartoonName":"Oggy and the Cockroaches",
     "MainCharacter":["oggy"],
