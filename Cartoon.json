@@ -20,4 +20,12 @@
     "Creator":"american",
     "Status":"ongoing"
   }
+
+   {
+    "id":3,
+    "CartoonName":"Ben 10",
+    "MainCharacter":"Ben, Gwen, Grandpa Max",
+    "Creator":"Duncan Rouleau",
+    "Status":"ongoing"
+  }
 ]
