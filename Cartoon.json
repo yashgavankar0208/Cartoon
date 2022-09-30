@@ -473,8 +473,7 @@
     "MainCharacter":["Eli sahne"],
     "Creator":"asaph fipke",
     "Status":"Completed"
-  }
-
+  },
 {
 
     "id":24,
@@ -484,17 +483,13 @@
     "Status":"Completed"
 
 
-  }
+  },
 {
     "id":25,
     "CartoonName":"Tom and Jerry",
     "MainCharacter":["Tom and Jerry"],
     "Creator":" William Hanna and Joseph Barbera",
     "Status":"Completed"
-  }
-
-]
-
   },
 {
     "id":35,
@@ -927,9 +922,16 @@
           ],
           "Creator": "Jean-Yves msrcel raimbbaud",
           "Status": "completed"
+      },
+      {
+        "id": 554,
+        "CartoonName": "Jackie Chan",
+        "MainCharacter": [
+            "Jackie"
+        ],
+        "Creator": "Jean-Yves msrcel raimbbaud",
+        "Status": "Married"
       }
-      
- 
   ]
   
 
