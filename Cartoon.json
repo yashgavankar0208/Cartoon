@@ -383,6 +383,13 @@
     "MainCharacter":["Pink Panther"],
     "Creator":"Blake Edwards",
     "Status":"completed"
-  }
+  },
+{
+    "id":31,
+    "CartoonName":"Perman",
+    "MainCharacter":["mitsuo"],
+    "Creator":"Fujiko F. Fujio",
+    "Status":"ongoing"
+  },
 
 ]
