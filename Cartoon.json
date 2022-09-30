@@ -111,6 +111,14 @@
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
+{
+    "id":15,
+    "CartoonName":"Oggy and the Cockroches",
+    "MainCharacter":["Oggy,cockroches,jack"],
+    "Creator":"Jean-Yves Raimbaud",
+    "Status":"ongoing"
+  }
+
   {
     "id":15,
 
