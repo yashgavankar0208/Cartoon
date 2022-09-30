@@ -324,5 +324,12 @@
     "Creator":"Chris Williams",
     "Status":"Completed"
   },
+{
+    "id":25,
+    "CartoonName":"Motu Patlu",
+    "MainCharacter":[",otu Patlu"],
+    "Creator":"Harvinder Mankkar",
+    "Status":"Completed"
+  },
   
 ]
