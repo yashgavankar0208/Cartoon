@@ -377,11 +377,18 @@
     "Creator":"Chris Williams",
     "Status":"Completed"
   },
- {
-    "id":28,
-    "CartoonName":"Pink Panther",
-    "MainCharacter":["The Pink Panther"],
-    "Creator":"Blake Edwards",
+{
+    "id":24,
+    "CartoonName":"Mickey Mouse ClubHouse",
+    "MainCharacter":["Mickey Mouse"],
+    "Creator":"Roberts Gannaway",
+    "Status":"Completed"
+  },
+{
+    "id":35,
+    "CartoonName":"Motu Patlu",
+    "MainCharacter":["Motu Patlu"],
+    "Creator":"Harvinder Mankkar",
     "Status":"Completed"
   }
 
