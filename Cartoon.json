@@ -12,5 +12,12 @@
     "MainCharacter":"Shinchan,Nohara Family,Kasukabe Defence Group",
     "Creator":"Yoshito Usui",
     "Status":"ongoing"
+  },
+  {
+    "id":3,
+    "CartoonName":"Ninja hattori",
+    "MainCharacter":"Ninja hattori,Shinzo hattori,Shishimaru,Kenichi mitsuba",
+    "Creator":"Fujiko Fujio",
+    "Status":"completed"
   }
 ]
