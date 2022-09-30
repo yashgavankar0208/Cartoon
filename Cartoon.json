@@ -203,11 +203,19 @@
     "Status":"Completed"
   },
 {
+ 
+    "id":19,
+    "CartoonName":"Garfield",
+    "MainCharacter":["Garfield"],
+    "Creator":"Jim Davis",
+    "Status":"Completed"
+
     "id":20,
     "CartoonName":"bandbook budbak",
     "MainCharacter":["bandbook, budbak"],
     "Creator":"Aashish Mall",
     "Status":"Ongoing"
+ 
   }
 
 
