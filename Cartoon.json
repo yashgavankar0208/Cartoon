@@ -73,27 +73,24 @@
     "Creator":"	Liu Fuyuan",
     "Status":"ongoing"
   },
-  {
     "id":11,
     "CartoonName":"Courage The Cowardly Dog",
     "MainCharacter":["Muriel Bagge,Eustace Bagge"],
     "Creator":"	John Dilworth",
     "Status":"completed"
-  },
+
   {
-    "id":12,
-    "CartoonName":"Oswald",
-    "MainCharacter":["Oswald,Egbert"],
-    "Creator":"Dan Yaccarino",
-    "Status":"Ongoing"
-  },
-  {
-    "id":13,
+    "id":14,
     "CartoonName":"Shaun the sheep",
     "MainCharacter":["Shaun,Bitzer,Farmer"],
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
-
-
+{
+    "id":17,
+    "CartoonName":"Kick Buttowski",
+    "MainCharacter":["Kick(Clarence),Gunther,Brad"],
+    "Creator":"Sandro Corsaro",
+    "Status":"re launching"
+  }
 ]
