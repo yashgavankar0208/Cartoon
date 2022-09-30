@@ -177,4 +177,11 @@
     "Creator":"Francesca Simon",
     "Status":"ongoing"
   },
+{
+    "id":18,
+    "CartoonName":"Doraemon",
+    "MainCharacter":["Doraemon,Nobita"],
+    "Creator":"fujiko fujiyo",
+    "Status":"ongoing"
+  },
 ]
