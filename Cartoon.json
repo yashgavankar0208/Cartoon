@@ -126,20 +126,6 @@
     "Creator":"Jean-Yves Stephane Marcel Raimbaud ",
     "Status":"ongoing"
   },
-{
-    "id":11,
-    "CartoonName":"shin chan",
-    "MainCharacter":["shin chan"],
-    "Creator":" fiu liyam",
-    "Status":"ongoing"
-  },
-{
-    "id":11,
-    "CartoonName":"kitretsu",
-    "MainCharacter":["kitretsu,corosuke"],
-    "Creator":"	Liu",
-    "Status":"ended"
-  }
 
 
 
@@ -240,11 +226,11 @@
     "Creator":"fujiko fujiyo",
     "Status":"ongoing"
   },
-{
+ {
     "id":19,
-    "CartoonName":"Motu Patlu",
-    "MainCharacter":["Motu, Patlu"],
-    "Creator":"fujiko fujiyo",
+    "CartoonName":"Haddi mera buddi",
+    "MainCharacter":["Haddi"],
+    "Creator":"Billy and Mandy",
     "Status":"ongoing"
-  },
+  }
 ]
