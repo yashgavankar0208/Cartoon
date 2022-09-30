@@ -81,7 +81,10 @@
     "CartoonName":"bablu",
     "MainCharacter":"Bablu,Dablu",
     "Creator":"	Liu Fuyuan",
-    "Status":"ongoing"  }
+    "Status":"ongoing"
+  },
+    "id":11,
+    "Status":"ongoing"  
  },
  {
     "id":12,
@@ -96,7 +99,8 @@
     "MainCharacter":"Muriel Bagge,Eustace Bagge",
     "Creator":"	John Dilworth",
     "Status":"completed"
-  },
+
+  
   {
     "id":14,
     "CartoonName":"Oswald",
@@ -111,6 +115,13 @@
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
+{
+    "id":17,
+    "CartoonName":"Kick Buttowski",
+    "MainCharacter":["Kick(Clarence),Gunther,Brad"],
+    "Creator":"Sandro Corsaro",
+    "Status":"re launching"
+  }
   {
     "id":16,
     "id":15,
