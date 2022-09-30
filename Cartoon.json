@@ -344,4 +344,14 @@
         "Creator": ["Neville Astley" , "Mark Baker"],
         "Status": "Ongoing"
     }
+    {
+        "id": 40,
+        "CartoonName": "Oggy And Cockroaches",
+        "MainCharacter": [
+            "Oggy"
+        ],
+        "Creator": "Jean-Yves msrcel raimbbaud",
+        "Status": "completed"
+    }
+    
 ]
