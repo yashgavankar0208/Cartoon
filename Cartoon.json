@@ -149,10 +149,18 @@
   },
 
  {
+
     "id":18,
     "CartoonName":"Super stricker",
     "MainCharacter":["shakes"],
     "Creator":"Jurgen Ulf Gutentag",
+    "Status":"Completed"
+  },
+  {
+    "id":19,
+    "CartoonName":"Barbie",
+    "MainCharacter":["Elina"],
+    "Creator":"Shinbo Naruma",
     "Status":"Completed"
   }
 
