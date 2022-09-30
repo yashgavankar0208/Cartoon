@@ -1313,6 +1313,14 @@
             ],
             "Creator": "Jean-Yves msrcel raimbbaud",
             "Status": "completed"
+        },
+        
+        {
+            "id": 40,
+            "CartoonName": "Oraa Guzura Dado",
+            "MainCharacter": ["Guzaara"],
+            "Creator": "Hiroshi Sasagawa",
+            "Status": "completed"
         }
         
    
