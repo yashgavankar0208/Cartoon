@@ -149,28 +149,20 @@
   },
 
  {
-
     "id":18,
     "CartoonName":"Super stricker",
     "MainCharacter":["shakes"],
     "Creator":"Jurgen Ulf Gutentag",
     "Status":"Completed"
-  },
-  {
+ },
+ {
     "id":19,
-    "CartoonName":"Barbie",
-    "MainCharacter":["Elina"],
-    "Creator":"Shinbo Naruma",
+    "CartoonName":"Oggy and Cockroaches",
+    "MainCharacter":["Oggy"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
     "Status":"Completed"
-  }
+ }
 
 
-    {
-    "id":15,
-    "CartoonName":"Roll NO 21",
-    "MainCharacter":["Krishh, Kans"],
-    "Creator":"Ah Loong Uttam Pal Singh",
-    "Status":"ongoing"
-  },
 
 ]
