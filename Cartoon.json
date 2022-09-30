@@ -121,11 +121,18 @@
     "MainCharacter":["Johnny,Dukey"],
     "Creator":"Scott Fellows",
     "Status":"Completed"
-  }
+  },
    {
     "id":18,
     "CartoonName":"Hagemaru",
     "MainCharacter":["Hagemaru"],
+    "Creator":"Shinbo Naruma",
+    "Status":"Completed"
+  },
+  {
+    "id":19,
+    "CartoonName":"Barbie",
+    "MainCharacter":["Elina"],
     "Creator":"Shinbo Naruma",
     "Status":"Completed"
   }
