@@ -449,6 +449,22 @@
     "Creator":"Chris Williams",
     "Status":"Completed"
   },
+
+ {
+    "id":28,
+    "CartoonName":"Pink Panther",
+    "MainCharacter":["Pink Panther"],
+    "Creator":"Blake Edwards",
+    "Status":"Completed"
+  },
+ {
+    "id":29,
+    "CartoonName":"slugtera",
+    "MainCharacter":["Eli sahne"],
+    "Creator":"asaph fipke",
+    "Status":"Completed"
+  }
+
 {
 
     "id":24,
@@ -456,6 +472,7 @@
     "MainCharacter":["Mickey Mouse"],
     "Creator":"Roberts Gannaway",
     "Status":"Completed"
+
 
   }
 {
