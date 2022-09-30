@@ -341,6 +341,14 @@
     "MainCharacter":["Robin, Raven, Beast boy"],
     "Creator":" Aaron Horvath",
     "Status":"ongoing"
+
+  },
+ {
+    "id":30,
+    "CartoonName":"Adventure Time ",
+    "MainCharacter":["Finn"],
+    "Creator":"Pendleton Ward",
+    "Status":"Stopped"
   },
 {
     "id":22,
@@ -362,7 +370,6 @@
     "Creator":"Richard Starzak",
     "Status":"ongoing"
                      },
-  },
 {
     "id":23,
     "CartoonName":"hero",
@@ -370,5 +377,5 @@
     "Creator":"Chris Williams",
     "Status":"Completed"
   }
-  
+
 ]
