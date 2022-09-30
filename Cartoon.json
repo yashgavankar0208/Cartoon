@@ -101,6 +101,13 @@
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
+  {
+    "id":15,
+    "CartoonName":"Pokemon",
+    "MainCharacter":["Ash,Pikachu"],
+    "Creator":"Satoshi Tajiri",
+    "Status":"ongoing"
+  }, 
 
 
 ]
