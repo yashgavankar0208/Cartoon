@@ -83,7 +83,18 @@
     "Creator":"	Liu Fuyuan",
     "Status":"ongoing"
   },
+ {
     "id":11,
+    "CartoonName":"Roll No 21",
+    "MainCharacter":["Kris and Kanishk"],
+    "Creator":"	Avinash Aanand Kaushik Chawla",
+    "Status":"ongoing"
+  },
+{
+    "id":11,
+    "CartoonName":"Mighty-Raju",
+    "MainCharacter":["Raju"],
+    "Creator":"	Radhakrishnan Sonam Shekhawat",
     "Status":"ongoing"  
  },
  {
@@ -271,4 +282,12 @@
     "Creator":" Aaron Horvath",
     "Status":"ongoing"
   }
+{
+  "id":29,
+    "CartoonName":"Popeye- The Sailor Man",
+    "MainCharacter":["Popeye"],
+    "Creator":"E. C. Segar",
+    "Status":"ongoing"
+                     },
+  
 ]
