@@ -360,6 +360,14 @@
     "MainCharacter":["Popeye"],
     "Creator":"E. C. Segar",
     "Status":"ongoing"
-                     },
+ },
+{
+  "id":30,
+    "CartoonName":"Robot Chicken",
+    "MainCharacter":["Robot Chicken"],
+    "Creator":"Seth Greene and Matthew Senreich",
+    "Status":"finished"
+ }
+
   
 ]
