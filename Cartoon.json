@@ -108,6 +108,11 @@
     "Creator":"Satoshi Tajiri",
     "Status":"ongoing"
   }, 
-
-
-]
+  {
+    "id":14,
+    "CartoonName":"oggy and the cockroaches",
+    "MainCharacter":["Oggy,Olivia,Jack"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
+    "Status":"Finished"
+  },
+  ]
