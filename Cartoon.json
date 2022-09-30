@@ -377,12 +377,12 @@
     "Creator":"Chris Williams",
     "Status":"Completed"
   },
-{
-    "id":24
-    "CartoonName":"Barbie and popstar",
-    "MainCharacter":["tia and kia"],
-    "Creator":"Steve Granat Cydne Clark",
+ {
+    "id":28,
+    "CartoonName":"Pink Panther",
+    "MainCharacter":["The Pink Panther"],
+    "Creator":"Blake Edwards",
     "Status":"Completed"
-  },
+  }
 
 ]
