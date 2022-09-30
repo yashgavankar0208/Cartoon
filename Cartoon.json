@@ -113,6 +113,36 @@
   },
   {
     "id":16,
+    "id":15,
+    "CartoonName":"Roll no 21",
+    "MainCharacter":["Kris"],
+    "Creator":"Cosmos Entertainment",
+    "Status":"ongoing"
+  },
+
+{
+    "id":15,
+    "CartoonName":"Perman",
+    "MainCharacter":["mitsuo"],
+    "Creator":"Fujiko F. Fujio",
+    "Status":"ongoing"
+  }
+
+
+    "CartoonName":"Oggy and the Cockroches",
+    "MainCharacter":["Oggy,cockroches,jack"],
+    "Creator":"Jean-Yves Raimbaud",
+    "Status":"ongoing"
+  }
+
+  {
+    "id":15,
+    "CartoonName":"spongebob squarepants",
+    "MainCharacter":[",patrick"],
+    "Creator":"Stephen Hillenburg",
+    "Status":"ongoing"
+  },
+
     "CartoonName":"Oggy and the cockroaches",
     "MainCharacter":["Oggy, jack"],
     "Creator":"Jean-Yves Stephane Marcel Raimbaud ",
@@ -177,6 +207,24 @@
     "Creator":"Jean-Yves Stephane Marcel Raimbaud",
     "Status":"Completed"
  },
+{
+ 
+    "id":19,
+    "CartoonName":"Garfield",
+    "MainCharacter":["Garfield"],
+    "Creator":"Jim Davis",
+    "Status":"Completed"
+
+    "id":20,
+    "CartoonName":"bandbook budbak",
+    "MainCharacter":["bandbook, budbak"],
+    "Creator":"Aashish Mall",
+    "Status":"Ongoing"
+ 
+  }
+
+
+
   {
     "id":25,
     "CartoonName":"Horrid Henry",
