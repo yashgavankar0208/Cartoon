@@ -434,12 +434,7 @@
     "MainCharacter":["Ankush,Bajrangi"],
     "Creator":"Dheeraj Berry",
     "Status":"Completed",
-  },
-  
-  
-
-
-
+    },
     {
         "id": 1,
         "CartoonName": "Doraemon",
@@ -785,6 +780,15 @@
         "Creator": ["Neville Astley" , "Mark Baker"],
         "Status": "Ongoing"
     },
+
+    {
+        "id": 708,
+        "CartoonName": "Tsugumomo",
+        "MainCharacter": ["Kazuya"],
+        "Creator": ["Sara Winderheft" , "Fallecia Angelle"],
+        "Status": "Ongoing"
+    },
+
     {
         "id": 40,
         "CartoonName": "Oggy And Cockroaches",
