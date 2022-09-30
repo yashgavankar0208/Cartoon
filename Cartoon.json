@@ -79,21 +79,21 @@
  {
     "id":11,
     "CartoonName":"bablu",
-    "MainCharacter":["Bablu,Dablu"],
+    "MainCharacter":"Bablu,Dablu",
     "Creator":"	Liu Fuyuan",
     "Status":"ongoing"  }
  },
  {
     "id":11,
     "CartoonName":"Motu Patlu",
-    "MainCharacter":["Motu,Patlu"],
+    "MainCharacter":"Motu Patlu",
     "Creator":"Niraj Vikram",
     "Status":"Ongoing"
  },
  {
     "id":12,
     "CartoonName":"Courage The Cowardly Dog",
-    "MainCharacter":["Muriel Bagge,Eustace Bagge"],
+    "MainCharacter":"Muriel Bagge,Eustace Bagge",
     "Creator":"	John Dilworth",
     "Status":"completed"
   },
@@ -113,6 +113,21 @@
   },
   {
     "id":15,
+
+
+
+    "CartoonName":"Johnny Test",
+    "MainCharacter":["Johnny,Dukey"],
+    "Creator":"Scott Fellows",
+    "Status":"Completed"
+  },
+
+    "CartoonName":"Dizzy Dishes",
+    "MainCharacter":["	Margie Hines,Billy Murray"],
+    "Creator":"Max Fleischer",
+    "Status":"Ongoing"
+
+
     "CartoonName":"Pokemon",
     "MainCharacter":["Ash,Pikachu"],
     "Creator":"Satoshi Tajiri",
@@ -140,4 +155,7 @@
     "Creator":"Jurgen Ulf Gutentag",
     "Status":"Completed"
   }
+
+
+
 ]
