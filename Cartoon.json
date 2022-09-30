@@ -113,6 +113,12 @@
   },
   {
     "id":15,
+    "CartoonName":"Oggy and the cockroaches",
+    "MainCharacter":["Oggy, jack"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud ",
+    "Status":"ongoing"
+  },
+
 
 
 
@@ -154,6 +160,7 @@
     "MainCharacter":["shakes"],
     "Creator":"Jurgen Ulf Gutentag",
     "Status":"Completed"
+ 
   },
 { 
     "id":19,
@@ -163,5 +170,21 @@
     "Status":"Finished"
 }
 
+ },
+ {
+    "id":19,
+    "CartoonName":"Oggy and Cockroaches",
+    "MainCharacter":["Oggy"],
+    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
+    "Status":"Completed"
+ }
 
+
+  {
+    "id":16,
+    "CartoonName":"Horrid Henry",
+    "MainCharacter":["Henry,Peter,Margot"],
+    "Creator":"Francesca Simon",
+    "Status":"ongoing"
+  },
 ]
