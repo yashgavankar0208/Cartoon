@@ -50,8 +50,8 @@
     
    {
       "id":7,
-      "CartoonName":"Chotta Bheem",
-      "MainCharacter":"bheem, raju, chutki,kaliya",
+      "CartoonName":"Chhota Bheem",
+      "MainCharacter":["bheem, raju, chutki,kaliya","jaggu"],
       "Creator":"Rajeev Chilaka",
       "Status":"ongoing"
     },
@@ -457,6 +457,13 @@
         "MainCharacter": ["Naruto","Sasuke","Hinata"],
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
-}    
+},
+{
+        "id": 57,
+        "CartoonName": "Kiteretsu",
+        "MainCharacter": ["Kiteretsu","Korosuke","Miyoko","Tongari","Butagorira"],
+        "Creator": "Fujiko Fujio",
+        "Status": "completed"
+}
 
 ]
