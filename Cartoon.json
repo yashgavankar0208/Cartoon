@@ -457,6 +457,14 @@
         "MainCharacter": ["Naruto","Sasuke","Hinata"],
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
-}    
+} ,
+    
+    {
+        "id": 57,
+        "CartoonName": "Power Rangers S.P.D",
+        "MainCharacter": ["S.P.D. Red Ranger","S.P.D. Blue Ranger","S.P.D. Green Ranger" , "S.P.D. Yellow Ranger" , "S.P.D. Pink Ranger"],
+        "Creator": ["Greg Aronowitz" , "Andrew Merrifield" , "Charlie Haskell" , "Mark Beesley" , "Britta Johnstone" , "Paul Grinder" , "John Laing"],
+        "Status": "Completed"
+    } 
 
 ]
