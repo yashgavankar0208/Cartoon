@@ -496,7 +496,14 @@
         "MainCharacter": ["Shinichi Kudo","Ran Mouri","Kogoro Mouri"],
         "Creator": "Gosho Aoyama",
         "Status": "Ongoing"
-}   
+},
+{
+          "id": 58,
+          "CartoonName":"Dragon Ball Z",
+          "MainCharacter":["Goku","Vegeta","Gohan","Trunks"],
+          "Creator":"Akira Toriyama",
+          "Status":"completed"
+}
 
 ]
 
