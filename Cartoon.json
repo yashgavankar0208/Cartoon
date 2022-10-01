@@ -519,7 +519,15 @@
         "MainCharacter": ["Kitretstu"],
         "Creator": "Fujiko Fujio",
         "Status": "Ongoing"
-}
+},
+    {
+        "id": 70,
+        "CartoonName": "sofia the first",
+        "MainCharacter": ["sofia the princess"],
+        "Creator": "Craig Gerber",
+        "Status": "Ongoing"
+},
+        
 ]
 
 
