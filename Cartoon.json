@@ -496,7 +496,15 @@
         "MainCharacter": ["Shinichi Kudo","Ran Mouri","Kogoro Mouri"],
         "Creator": "Gosho Aoyama",
         "Status": "Ongoing"
-}   
+},
+    {
+        "id": 58,
+        "CartoonName": "Kitretsu",
+        "MainCharacter": ["Kitretstu"],
+        "Creator": "Fujiko Fujio[",
+        "Status": "Ongoing"
+}
+    
 
 ]
 
