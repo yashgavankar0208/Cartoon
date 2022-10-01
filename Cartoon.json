@@ -457,6 +457,14 @@
         "MainCharacter": ["Naruto","Sasuke","Hinata"],
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
-}    
+},
+    
+{
+        "id": 57,
+        "CartoonName": "Detective Conan",
+        "MainCharacter": ["Shinichi Kudo","Ran Mouri","Kogoro Mouri"],
+        "Creator": "Gosho Aoyama",
+        "Status": "Ongoing"
+}
 
 ]
