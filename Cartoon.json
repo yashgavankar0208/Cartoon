@@ -458,5 +458,11 @@
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
 }    
-
+   {
+      "id":57,
+      "CartoonName":"assassination classroom",
+      "MainCharacter":["koro sensei"],
+      "Creator":"Yusei Matsui",
+      "Status":"completed"
+    },
 ]
