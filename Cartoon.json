@@ -451,7 +451,7 @@
    },
 
 {
-        "id": 52,
+        "id": 58,
         "CartoonName": "Powerpuff Girls",
         "MainCharacter": ["Buttercup","Blossom","Bubbles"],
         "Creator": "Craig McCracken",
@@ -467,7 +467,7 @@
 },    
   
 {
-        "id": 54,
+        "id": 64,
         "CartoonName": "Popeye",
         "MainCharacter": ["Popeye","Shaggy","Velma"],
         "Creator": " E. C. Segar",
@@ -483,7 +483,7 @@
 },
     
 {
-        "id": 56,
+        "id": 66,
         "CartoonName": "Naruto",
         "MainCharacter": ["Naruto","Sasuke","Hinata"],
         "Creator": "Masashi Kishimoto",
@@ -491,21 +491,27 @@
 },
     
 {
-        "id": 57,
+        "id": 67,
         "CartoonName": "Detective Conan",
         "MainCharacter": ["Shinichi Kudo","Ran Mouri","Kogoro Mouri"],
         "Creator": "Gosho Aoyama",
         "Status": "Ongoing"
 },
-    {
-        "id": 58,
+
+{
+          "id": 68,
+          "CartoonName":"Dragon Ball Z",
+          "MainCharacter":["Goku","Vegeta","Gohan","Trunks"],
+          "Creator":"Akira Toriyama",
+          "Status":"completed"
+},
+ {
+        "id": 69,
         "CartoonName": "Kitretsu",
         "MainCharacter": ["Kitretstu"],
-        "Creator": "Fujiko Fujio[",
+        "Creator": "Fujiko Fujio",
         "Status": "Ongoing"
 }
-    
-
 ]
 
 
