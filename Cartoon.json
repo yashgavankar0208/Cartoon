@@ -420,6 +420,37 @@
 },
  
 {
+       "id": 54,
+       "CartoonName": "Popeye",
+       "MainCharacter": ["Popeye","Shaggy","Velma"],
+       "Creator": " E. C. Segar",
+       "Status": "completed"
+},
+   
+{
+       "id": 55,
+       "CartoonName": "Timon and Pumbaa",
+       "MainCharacter": ["Timon","Pumbaa","Simba"],
+       "Creator": "Meredith Roberts",
+       "Status": "completed"
+},
+   
+{
+       "id": 56,
+       "CartoonName": "Naruto",
+       "MainCharacter": ["Naruto","Sasuke","Hinata"],
+       "Creator": "Masashi Kishimoto",
+       "Status": "completed"
+},
+   {
+     "id":58,
+     "CartoonName":"Roll No 21",
+     "MainCharacter":["Krishna,Nezuko"],
+     "Creator":"Avinash Aanand Kaushik Chawla",
+     "Status":"ongoing"
+   },
+
+{
         "id": 52,
         "CartoonName": "Powerpuff Girls",
         "MainCharacter": ["Buttercup","Blossom","Bubbles"],
@@ -431,7 +462,7 @@
         "id": 53,
         "CartoonName": "Scooby-Doo, Where Are You",
         "MainCharacter": ["Scooby","Shaggy","Velma"],
-        "Creator": "Joe Ruby","Ken Spears ",
+        "Creator": "Joe Ruby",
         "Status": "completed"
 },    
   
@@ -458,12 +489,15 @@
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
 },
-    {
-      "id":58,
-      "CartoonName":"Roll No 21",
-      "MainCharacter":["Krishna,Nezuko"],
-      "Creator":"Avinash Aanand Kaushik Chawla",
-      "Status":"ongoing"
-    }
+    
+{
+        "id": 57,
+        "CartoonName": "Detective Conan",
+        "MainCharacter": ["Shinichi Kudo","Ran Mouri","Kogoro Mouri"],
+        "Creator": "Gosho Aoyama",
+        "Status": "Ongoing"
+}   
 
 ]
+
+
