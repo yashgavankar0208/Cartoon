@@ -457,6 +457,14 @@
         "MainCharacter": ["Naruto","Sasuke","Hinata"],
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
-}    
+},
+
+{
+        "id" : 57,
+        "CartoonName" : "Richie Rich",
+        "MainCharacter" : ["Richie"],
+        "Creator" : "Donald Petrie",
+        "Status" : "Completed"
+}
 
 ]
