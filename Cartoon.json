@@ -457,6 +457,14 @@
         "MainCharacter": ["Naruto","Sasuke","Hinata"],
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
+},
+    
+{
+        "id": 57,
+        "CartoonName": "Thomas & Friends",
+        "MainCharacter": ["Thomas","Edward","Henry","Emily","Percy","Gordan","James","Toby"],
+        "Creator": "Wilbert Vere Awdry",
+        "Status": "completed"
 }    
 
 ]
