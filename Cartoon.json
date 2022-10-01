@@ -519,6 +519,13 @@
         "MainCharacter": ["Kitretstu"],
         "Creator": "Fujiko Fujio",
         "Status": "Ongoing"
+},
+    {
+        "id": 70,
+        "CartoonName": "Mr. Bean",
+        "MainCharacter": ["Mr. Bean"],
+        "Creator": "Rowan Atkinson",
+        "Status": "completed"
 }
 ]
 
