@@ -488,7 +488,15 @@
         "MainCharacter": ["Naruto","Sasuke","Hinata"],
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
-},
+}, 
+
+  {
+      "id":97,
+      "CartoonName":"assassination classroom",
+      "MainCharacter":["koro sensei"],
+      "Creator":"Yusei Matsui",
+      "Status":"completed"
+    },
     
 {
         "id": 67,
