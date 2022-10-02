@@ -350,17 +350,9 @@
         "Creator": "Chris Williams",
         "Status": "Completed"
     },
+    
     {
         "id": 42,
-        "CartoonName": "Pink Panther",
-        "MainCharacter": [
-            "Pink Panther"
-        ],
-        "Creator": "Blake Edwards",
-        "Status": "completed"
-    },
-    {
-        "id": 43,
         "CartoonName": "Invincible",
         "MainCharacter": [
             "Mark Grayson"
@@ -369,14 +361,14 @@
         "Status": "completed"
     },
     {
-        "id": 44,
+        "id": 43,
         "CartoonName": "Jackie Chan",
         "MainCharacter": "Jackie",
         "Creator": "Jean-Yves msrcel raimbbaud",
         "Status": "Married"
     },
     {
-        "id": 45,
+        "id": 44,
         "CartoonName": "Teenage Mutant Ninja Turtles",
         "MainCharacter": [
             "Krang",
@@ -391,7 +383,7 @@
         "Status": "Completed"
     },
     {
-        "id": 46,
+        "id": 45,
         "CartoonName": "Hagemaru",
         "MainCharacter": [
             "Hagemaru"
@@ -400,7 +392,7 @@
         "Status": "Completed"
     },
     {
-        "id": 47,
+        "id": 46,
         "CartoonName": "Selfie with bajrangi",
         "MainCharacter": [
             "Ankush,Bajrangi"
@@ -409,7 +401,7 @@
         "Status": "Completed"
     },
     {
-        "id": 48,
+        "id": 47,
         "CartoonName": "Johnny Bravo",
         "MainCharacter": [
             "Johnny Bravo"
@@ -418,7 +410,7 @@
         "Status": "Completed"
     },
     {
-        "id": 49,
+        "id": 48,
         "CartoonName": "Peppa Pig",
         "MainCharacter": [
             "Peppa Pig"
@@ -430,7 +422,7 @@
         "Status": "Ongoing"
     },
     {
-        "id": 50,
+        "id": 49,
         "CartoonName": "Tsugumomo",
         "MainCharacter": [
             "Kazuya"
@@ -442,7 +434,7 @@
         "Status": "Ongoing"
     },
     {
-        "id": 51,
+        "id": 50,
         "CartoonName": "Oraa Guzura Dado",
         "MainCharacter": [
             "Guzaara"
@@ -453,16 +445,9 @@
     },
     
  
+
 {
-       "id": 52,
-       "CartoonName": "Popeye",
-       "MainCharacter": ["Popeye","Shaggy","Velma"],
-       "Creator": " E. C. Segar",
-       "Status": "completed"
-},
-   
-{
-       "id": 53,
+       "id": 51,
        "CartoonName": "Timon and Pumbaa",
        "MainCharacter": ["Timon","Pumbaa","Simba"],
        "Creator": "Meredith Roberts",
@@ -470,23 +455,17 @@
 },
    
 {
-       "id": 54,
+       "id": 52,
        "CartoonName": "Naruto",
        "MainCharacter": ["Naruto","Sasuke","Hinata"],
        "Creator": "Masashi Kishimoto",
        "Status": "completed"
 },
-   {
-     "id":56,
-     "CartoonName":"Roll No 21",
-     "MainCharacter":["Krishna,Nezuko"],
-     "Creator":"Avinash Aanand Kaushik Chawla",
-     "Status":"ongoing"
-   },
+   
 
 {
-        "id": 57,
 
+        "id": 53,
         "CartoonName": "Powerpuff Girls",
         "MainCharacter": [
             "Buttercup",
@@ -501,30 +480,20 @@
     
 
 {
-        "id": 58,
+        "id": 54,
         "CartoonName": "Scooby-Doo, Where Are You",
         "MainCharacter": ["Scooby","Shaggy","Velma"],
         "Creator": "Joe Ruby",
         "Status": "completed"
 },    
   
-{
-        "id": 59,
 
-        "CartoonName": "Popeye",
-        "MainCharacter": [
-            "Popeye",
-            "Shaggy",
-            "Velma"
-
-        "Creator": " E. C. Segar",
-        "Status": "completed"
-
-    },
   
     
 {
-        "id": 60,
+
+
+        "id": 55,
 
         "CartoonName": "Timon and Pumbaa",
         "MainCharacter": [
@@ -537,24 +506,9 @@
 
     },
   
-{
-        "id": 61,
-
-        "CartoonName": "Naruto",
-        "MainCharacter": [
-            "Naruto",
-            "Sasuke",
-            "Hinata"
-        ],
-        "Creator": "Masashi Kishimoto",
-        "Status": "completed"
-
-
-
-},
 
 {
-        "id" : 62,
+        "id" : 56,
         "CartoonName" : "Richie Rich",
         "MainCharacter" : ["Richie"],
         "Creator" : "Donald Petrie",
@@ -564,15 +518,30 @@
 }, 
 
   {
-      "id":63,
+      "id":57,
       "CartoonName":"assassination classroom",
       "MainCharacter":["koro sensei"],
       "Creator":"Yusei Matsui",
       "Status":"completed"
     },
+      {
+        "id": 68,
+        "CartoonName": "American Dragon: Jake Long",
+        "MainCharacter": ["Jake Long"],
+        "Creator": "Jeff Goode",
+        "Status": "completed"
+}, 
+ {
+        "id": 69,
+        "CartoonName": "Power Rangers S.P.D",
+        "MainCharacter": ["S.P.D. Red Ranger","S.P.D. Blue Ranger","S.P.D. Green Ranger" , "S.P.D. Yellow Ranger" , "S.P.D. Pink Ranger"],
+        "Creator": ["Greg Aronowitz" , "Andrew Merrifield" , "Charlie Haskell" , "Mark Beesley" , "Britta Johnstone" , "Paul Grinder" , "John Laing"],
+        "Status": "Completed"
+    } ,
+
     
 {
-        "id": 64,
+        "id": 70,
         "CartoonName": "Detective Conan",
         "MainCharacter": ["Shinichi Kudo","Ran Mouri","Kogoro Mouri"],
         "Creator": "Gosho Aoyama",
@@ -580,24 +549,18 @@
 },
 
 {
-          "id": 65,
+          "id": 71,
           "CartoonName":"Dragon Ball Z",
           "MainCharacter":["Goku","Vegeta","Gohan","Trunks"],
           "Creator":"Akira Toriyama",
           "Status":"completed"
 },
- {
-        "id": 66,
-        "CartoonName": "Kitretsu",
-        "MainCharacter": ["Kitretstu"],
-        "Creator": "Fujiko Fujio",
-        "Status": "Ongoing"
-},
+
 
 
 
     {
-        "id": 67,
+        "id": 72,
         "CartoonName": "Beyblade",
         "MainCharacter": ["The Bladebreakers"],
         "Creator": "Toshifumi Kawase",
@@ -605,57 +568,26 @@
 },
 
  {
-        "id": 68,
+        "id": 73,
         "CartoonName": "Bob The Builder",
         "MainCharacter": ["Scoop"],
         "Creator": "Keith Chapman",
         "Status": "completed"
 
 },
-  {
-        "id": 69,
-        "CartoonName": "Richie Rich",
-        "MainCharacter": [
-            "Richie"
-        ],
-        "Creator": "Donald Petrie",
-        "Status": "Completed"
-},
 
-
-  {
-        "id": 70,
-        "CartoonName": "Power Rangers S.P.D",
-        "MainCharacter": ["S.P.D. Red Ranger","S.P.D. Blue Ranger","S.P.D. Green Ranger" , "S.P.D. Yellow Ranger" , "S.P.D. Pink Ranger"],
-        "Creator": ["Greg Aronowitz" , "Andrew Merrifield" , "Charlie Haskell" , "Mark Beesley" , "Britta Johnstone" , "Paul Grinder" , "John Laing"],
-        "Status": "Completed"
-    } ,
 {
-        "id": 71,
-        "CartoonName": "Kiteretsu",
-        "MainCharacter": ["Kiteretsu","Korosuke","Miyoko","Tongari","Butagorira"],
-        "Creator": "Fujiko Fujio",
-        "Status": "completed"
-},
-{
-      "id":72,
+      "id":74,
       "CartoonName":"Avatar:The Legend of Korra",
       "MainCharacter":"Korra",
       "Creator":"Joaquim Dos Santos",
       "Status":"completed"
       
  },
- {
-        "id": 73,
-        "CartoonName": "Mr. Bean",
-        "MainCharacter": ["Mr. Bean"],
-        "Creator": "Rowan Atkinson",
-        "Status": "completed"
-}
 
 
     {
-        "id": 74,
+        "id": 75,
         "CartoonName": "sofia the first",
         "MainCharacter": ["sofia the princess"],
         "Creator": "Craig Gerber",
