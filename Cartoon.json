@@ -593,6 +593,7 @@
         "Creator": "Craig Gerber",
         "Status": "Ongoing"
 },
+
     
     {
         "id": 76,
@@ -601,8 +602,19 @@
         "Creator": "Hergé",
         "Status": "Completed"
 },
-    
-
- 
- ]
+    { 
+        "id": 78,
+        "CartoonName": "Chacha Bhatija",
+        "MainCharacter": ["Swapnil Kumari","Anil Datt"],
+        "Creator": "Diamond Comics",
+        "Status": "Ongoing"
+ },
+     {
+        "id": 76,
+        "CartoonName": "Courage The Cowardly Dog",
+        "MainCharacter": "Muriel Bagge,Eustace Bagge",
+        "Creator": "John Dilworth",
+        "Status": "completed"
+ },
+]
 
