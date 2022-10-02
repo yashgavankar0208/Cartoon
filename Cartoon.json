@@ -575,8 +575,7 @@
         "Status": "completed"
 
 },
-
-{
+   {
       "id":74,
       "CartoonName":"Avatar:The Legend of Korra",
       "MainCharacter":"Korra",
@@ -584,8 +583,6 @@
       "Status":"completed"
       
  },
-
-
     {
         "id": 75,
         "CartoonName": "sofia the first",
@@ -594,7 +591,13 @@
         "Status": "Ongoing"
 },
 
-    
+     {
+        "id": 78,
+        "CartoonName": "zig and sharko",
+        "MainCharacter": ["zig, sharko"],
+        "Creator": "Olivier Jean-Marie",
+        "Status": "Ongoing"
+},
     {
         "id": 76,
         "CartoonName": "The Adventures of Tintin",
@@ -617,4 +620,3 @@
         "Status": "completed"
  },
 ]
-
