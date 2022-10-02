@@ -519,6 +519,13 @@
         "MainCharacter": ["Kitretstu"],
         "Creator": "Fujiko Fujio",
         "Status": "Ongoing"
+},
+    {
+        "id": 70,
+        "CartoonName": "Beyblade",
+        "MainCharacter": ["The Bladebreakers"],
+        "Creator": "Toshifumi Kawase",
+        "Status": "Completed"
 }
 ]
 
