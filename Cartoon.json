@@ -593,6 +593,7 @@
         "Creator": "Fujiko Fujio",
         "Status": "Ongoing"
 },
+    
 
     {
         "id": 67,
@@ -621,6 +622,7 @@
   
 
 
+
 },
 
 
@@ -645,7 +647,15 @@
       "Creator":"Joaquim Dos Santos",
       "Status":"completed"
       
- }
+ },
+ {
+        "id": 73,
+        "CartoonName": "Mr. Bean",
+        "MainCharacter": ["Mr. Bean"],
+        "Creator": "Rowan Atkinson",
+        "Status": "completed"
+}
+
  
  ]
 
