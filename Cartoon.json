@@ -519,7 +519,16 @@
         "MainCharacter": ["Kitretstu"],
         "Creator": "Fujiko Fujio",
         "Status": "Ongoing"
-}
+},
+    
+    {
+        "id": 70,
+        "CartoonName": "Takeshi's Castle",
+        "MainCharacter": ["Fero Walandouw"],
+        "Creator": "Takeshi Kitano",
+        "Status": "Completed"
+    }
+        
 ]
 
 
