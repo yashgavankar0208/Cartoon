@@ -593,6 +593,15 @@
         "Creator": "Craig Gerber",
         "Status": "Ongoing"
 },
+    
+    {
+        "id": 76,
+        "CartoonName": "The Adventures of Tintin",
+        "MainCharacter": ["Tintin"],
+        "Creator": "Hergé",
+        "Status": "Completed"
+},
+    
 
  
  ]
