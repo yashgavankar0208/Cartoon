@@ -619,4 +619,11 @@
         "Creator": "John Dilworth",
         "Status": "completed"
  },
+     {
+        "id": 80,
+        "CartoonName": "Happy Tree Friends",
+        "MainCharacter": ["Flaky", "Nutty", "Giggles", "Cuddles", "Petunia", "Lumpy", "Toothy", "Sniffles", "Russell", "Pop"],
+        "Creator": ["Aubrey Ankrum", "Kenn Navarro", "Rhode Montijo"],
+        "Status": "Completed"
+ }
 ]
