@@ -43,12 +43,15 @@
         "Creator": "Duncan Rouleau",
         "Status": "ongoing"
     },
-    {
-        "id": 7,
-        "CartoonName": "Chotta Bheem",
-        "MainCharacter": "bheem, raju, chutki,kaliya",
-        "Creator": "Rajeev Chilaka",
-        "Status": "ongoing"
+
+    
+   {
+      "id":7,
+      "CartoonName":"Chhota Bheem",
+      "MainCharacter":["bheem, raju, chutki,kaliya","jaggu"],
+      "Creator":"Rajeev Chilaka",
+      "Status":"ongoing"
+
     },
     {
         "id": 8,
@@ -546,9 +549,7 @@
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
 
-} ,
-    
-  
+},
 
 {
         "id" : 62,
@@ -627,7 +628,15 @@
         "MainCharacter": ["S.P.D. Red Ranger","S.P.D. Blue Ranger","S.P.D. Green Ranger" , "S.P.D. Yellow Ranger" , "S.P.D. Pink Ranger"],
         "Creator": ["Greg Aronowitz" , "Andrew Merrifield" , "Charlie Haskell" , "Mark Beesley" , "Britta Johnstone" , "Paul Grinder" , "John Laing"],
         "Status": "Completed"
-    } 
+    } ,
+{
+        "id": 71,
+        "CartoonName": "Kiteretsu",
+        "MainCharacter": ["Kiteretsu","Korosuke","Miyoko","Tongari","Butagorira"],
+        "Creator": "Fujiko Fujio",
+        "Status": "completed"
+}
+
 
 ]
 
