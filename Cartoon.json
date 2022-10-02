@@ -420,7 +420,38 @@
 },
  
 {
-        "id": 52,
+       "id": 52,
+       "CartoonName": "Popeye",
+       "MainCharacter": ["Popeye","Shaggy","Velma"],
+       "Creator": " E. C. Segar",
+       "Status": "completed"
+},
+   
+{
+       "id": 53,
+       "CartoonName": "Timon and Pumbaa",
+       "MainCharacter": ["Timon","Pumbaa","Simba"],
+       "Creator": "Meredith Roberts",
+       "Status": "completed"
+},
+   
+{
+       "id": 54,
+       "CartoonName": "Naruto",
+       "MainCharacter": ["Naruto","Sasuke","Hinata"],
+       "Creator": "Masashi Kishimoto",
+       "Status": "completed"
+},
+   {
+     "id":56,
+     "CartoonName":"Roll No 21",
+     "MainCharacter":["Krishna,Nezuko"],
+     "Creator":"Avinash Aanand Kaushik Chawla",
+     "Status":"ongoing"
+   },
+
+{
+        "id": 57,
         "CartoonName": "Powerpuff Girls",
         "MainCharacter": ["Buttercup","Blossom","Bubbles"],
         "Creator": "Craig McCracken",
@@ -428,15 +459,15 @@
 },
 
 {
-        "id": 53,
+        "id": 58,
         "CartoonName": "Scooby-Doo, Where Are You",
         "MainCharacter": ["Scooby","Shaggy","Velma"],
-        "Creator": "Joe Ruby","Ken Spears ",
+        "Creator": "Joe Ruby",
         "Status": "completed"
 },    
   
 {
-        "id": 54,
+        "id": 59,
         "CartoonName": "Popeye",
         "MainCharacter": ["Popeye","Shaggy","Velma"],
         "Creator": " E. C. Segar",
@@ -444,7 +475,7 @@
 },
     
 {
-        "id": 55,
+        "id": 60,
         "CartoonName": "Timon and Pumbaa",
         "MainCharacter": ["Timon","Pumbaa","Simba"],
         "Creator": "Meredith Roberts",
@@ -452,19 +483,74 @@
 },
     
 {
-        "id": 56,
+        "id": 61,
         "CartoonName": "Naruto",
         "MainCharacter": ["Naruto","Sasuke","Hinata"],
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
+
 },
 
 {
-        "id" : 57,
+        "id" : 62,
         "CartoonName" : "Richie Rich",
         "MainCharacter" : ["Richie"],
         "Creator" : "Donald Petrie",
         "Status" : "Completed"
 }
 
+}, 
+
+  {
+      "id":63,
+      "CartoonName":"assassination classroom",
+      "MainCharacter":["koro sensei"],
+      "Creator":"Yusei Matsui",
+      "Status":"completed"
+    },
+    
+{
+        "id": 64,
+        "CartoonName": "Detective Conan",
+        "MainCharacter": ["Shinichi Kudo","Ran Mouri","Kogoro Mouri"],
+        "Creator": "Gosho Aoyama",
+        "Status": "Ongoing"
+},
+
+{
+          "id": 65,
+          "CartoonName":"Dragon Ball Z",
+          "MainCharacter":["Goku","Vegeta","Gohan","Trunks"],
+          "Creator":"Akira Toriyama",
+          "Status":"completed"
+},
+ {
+        "id": 66,
+        "CartoonName": "Kitretsu",
+        "MainCharacter": ["Kitretstu"],
+        "Creator": "Fujiko Fujio",
+        "Status": "Ongoing"
+},
+
+    {
+        "id": 67,
+        "CartoonName": "Beyblade",
+        "MainCharacter": ["The Bladebreakers"],
+        "Creator": "Toshifumi Kawase",
+        "Status": "Completed"
+},
+
+ {
+        "id": 68,
+        "CartoonName": "Bob The Builder",
+        "MainCharacter": ["Scoop"],
+        "Creator": "Keith Chapman",
+        "Status": "completed"
+
+}
+
+
+
 ]
+
+
