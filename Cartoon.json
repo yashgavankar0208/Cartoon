@@ -3,9 +3,9 @@
         "id": 1,
         "CartoonName": "Doraemon",
         "MainCharacter": [
-            "Doraemon,Nobita"
+            "Doraemon,Nobita,Shizuka,Gian,Suneo"
         ],
-        "Creator": "fujiko fujiyo",
+        "Creator": "Fujiko F. Fujiyo",
         "Status": "ongoing"
     },
     {
