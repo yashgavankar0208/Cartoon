@@ -520,15 +520,17 @@
         "Creator": "Fujiko Fujio",
         "Status": "Ongoing"
 },
-    
-{
-        "id": 75,
-        "CartoonName": "Bob the builder",
-        "MainCharacter": ["Grg proops"],
+
+ {
+        "id": 70,
+        "CartoonName": "Bob The Builder",
+        "MainCharacter": ["Scoop"],
         "Creator": "Keith Chapman",
         "Status": "completed"
-},
+}
+
     
+
 ]
 
 
