@@ -594,6 +594,12 @@
         "Status": "Ongoing"
 },
 
- 
+   {
+        "id": 76,
+        "CartoonName": "Courage The Cowardly Dog",
+        "MainCharacter": "Muriel Bagge,Eustace Bagge",
+        "Creator": "John Dilworth",
+        "Status": "completed"
+    },
  ]
 
