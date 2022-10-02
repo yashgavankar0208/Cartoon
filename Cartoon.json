@@ -593,7 +593,7 @@
         "Creator": "Fujiko Fujio",
         "Status": "Ongoing"
 },
-    
+
 
     {
         "id": 67,
@@ -619,10 +619,6 @@
         ],
         "Creator": "Donald Petrie",
         "Status": "Completed"
-  
-
-
-
 },
 
 
@@ -655,6 +651,14 @@
         "Creator": "Rowan Atkinson",
         "Status": "completed"
 }
+
+    {
+        "id": 74,
+        "CartoonName": "sofia the first",
+        "MainCharacter": ["sofia the princess"],
+        "Creator": "Craig Gerber",
+        "Status": "Ongoing"
+},
 
  
  ]
