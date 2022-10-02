@@ -549,6 +549,8 @@
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
 
+
+
 },
 
 {
@@ -635,8 +637,15 @@
         "MainCharacter": ["Kiteretsu","Korosuke","Miyoko","Tongari","Butagorira"],
         "Creator": "Fujiko Fujio",
         "Status": "completed"
-}
-
-
-]
+},
+{
+      "id":72,
+      "CartoonName":"Avatar:The Legend of Korra",
+      "MainCharacter":"Korra",
+      "Creator":"Joaquim Dos Santos",
+      "Status":"completed"
+      
+ }
+ 
+ ]
 
