@@ -519,6 +519,13 @@
         "MainCharacter": ["Kitretstu"],
         "Creator": "Fujiko Fujio",
         "Status": "Ongoing"
+},
+ {
+        "id": 70,
+        "CartoonName": "Bob The Builder",
+        "MainCharacter": ["Scoop"],
+        "Creator": "Keith Chapman",
+        "Status": "completed"
 }
 ]
 
