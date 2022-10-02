@@ -575,8 +575,7 @@
         "Status": "completed"
 
 },
-
-{
+   {
       "id":74,
       "CartoonName":"Avatar:The Legend of Korra",
       "MainCharacter":"Korra",
@@ -584,8 +583,6 @@
       "Status":"completed"
       
  },
-
-
     {
         "id": 75,
         "CartoonName": "sofia the first",
@@ -600,9 +597,26 @@
         "MainCharacter": ["zig, sharko"],
         "Creator": "Olivier Jean-Marie",
         "Status": "Ongoing"
-}
-
-    
- 
- ]
-
+},
+    {
+        "id": 76,
+        "CartoonName": "The Adventures of Tintin",
+        "MainCharacter": ["Tintin"],
+        "Creator": "Hergé",
+        "Status": "Completed"
+},
+    { 
+        "id": 78,
+        "CartoonName": "Chacha Bhatija",
+        "MainCharacter": ["Swapnil Kumari","Anil Datt"],
+        "Creator": "Diamond Comics",
+        "Status": "Ongoing"
+ },
+     {
+        "id": 76,
+        "CartoonName": "Courage The Cowardly Dog",
+        "MainCharacter": "Muriel Bagge,Eustace Bagge",
+        "Creator": "John Dilworth",
+        "Status": "completed"
+ },
+]
