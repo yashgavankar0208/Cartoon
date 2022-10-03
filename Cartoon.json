@@ -625,5 +625,22 @@
         "MainCharacter": ["Flaky", "Nutty", "Giggles", "Cuddles", "Petunia", "Lumpy", "Toothy", "Sniffles", "Russell", "Pop"],
         "Creator": ["Aubrey Ankrum", "Kenn Navarro", "Rhode Montijo"],
         "Status": "Completed"
- }
+ },
+    {
+
+        "id": 81,
+
+        "CartoonName": "bugs Bunny",
+
+        "MainCharacter": [
+
+            "bunny,bugs,granny,daffy duck"
+
+        ],
+
+        "Creator": "chuck jones",
+
+        "Status": "ongoing"
+
+    },
 ]
