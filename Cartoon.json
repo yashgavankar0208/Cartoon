@@ -625,5 +625,12 @@
         "MainCharacter": ["Flaky", "Nutty", "Giggles", "Cuddles", "Petunia", "Lumpy", "Toothy", "Sniffles", "Russell", "Pop"],
         "Creator": ["Aubrey Ankrum", "Kenn Navarro", "Rhode Montijo"],
         "Status": "Completed"
+ },
+    {
+        "id": 82,
+        "CartoonName": "Scooby-Doo, Where Are You!",
+        "MainCharacter": ["Scooby-Doo","Shaggy Rogers", "Fred Jones", "Velma Dinkley", "Daphne Blake"],
+        "Creator": ["Joseph Barbera", "William Hanna"],
+        "Status": "Completed"
  }
 ]
