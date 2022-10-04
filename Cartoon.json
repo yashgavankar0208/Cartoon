@@ -625,5 +625,12 @@
         "MainCharacter": ["Flaky", "Nutty", "Giggles", "Cuddles", "Petunia", "Lumpy", "Toothy", "Sniffles", "Russell", "Pop"],
         "Creator": ["Aubrey Ankrum", "Kenn Navarro", "Rhode Montijo"],
         "Status": "Completed"
+ },
+    {
+        "id": 81,
+        "CartoonName": "The Powerpuff Girls",
+        "MainCharacter": ["Buttercup", "Bubbles", "Mojo Jojo", "Blossom", "Miss Sara Bellum", "Professor Utonium"],
+        "Creator": ["Craig McCracken"],
+        "Status": "Completed"
  }
 ]
