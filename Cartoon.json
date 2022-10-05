@@ -625,5 +625,12 @@
         "MainCharacter": ["Flaky", "Nutty", "Giggles", "Cuddles", "Petunia", "Lumpy", "Toothy", "Sniffles", "Russell", "Pop"],
         "Creator": ["Aubrey Ankrum", "Kenn Navarro", "Rhode Montijo"],
         "Status": "Completed"
+ },
+    {
+        "id": 81,
+        "CartoonName": "Johnny Bravo",
+        "MainCharacter": ["Johnny Bravo"],
+        "Creator": ["Van Partible"],
+        "Status": "Completed"
  }
 ]
