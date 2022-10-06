@@ -592,14 +592,14 @@
 },
 
      {
-        "id": 78,
+        "id": 76,
         "CartoonName": "zig and sharko",
         "MainCharacter": ["zig, sharko"],
         "Creator": "Olivier Jean-Marie",
         "Status": "Ongoing"
 },
     {
-        "id": 76,
+        "id": 77,
         "CartoonName": "The Adventures of Tintin",
         "MainCharacter": ["Tintin"],
         "Creator": "Hergé",
@@ -613,7 +613,7 @@
         "Status": "Ongoing"
  },
      {
-        "id": 76,
+        "id": 79,
         "CartoonName": "Courage The Cowardly Dog",
         "MainCharacter": "Muriel Bagge,Eustace Bagge",
         "Creator": "John Dilworth",
@@ -627,10 +627,50 @@
         "Status": "Completed"
  },
     {
+
         "id": 82,
         "CartoonName": "Scooby-Doo, Where Are You!",
         "MainCharacter": ["Scooby-Doo","Shaggy Rogers", "Fred Jones", "Velma Dinkley", "Daphne Blake"],
         "Creator": ["Joseph Barbera", "William Hanna"],
         "Status": "Completed"
- }
+ },
+{
+        "id": 81,
+
+        "CartoonName": "bugs Bunny",
+
+        "MainCharacter": [
+
+            "bunny,bugs,granny,daffy duck"
+
+        ],
+
+        "Creator": "chuck jones",
+
+        "Status": "ongoing"
+        },
+        {
+        "id": 81,
+        "CartoonName": "The Powerpuff Girls",
+        "MainCharacter": ["Buttercup", "Bubbles", "Mojo Jojo", "Blossom", "Miss Sara Bellum", "Professor Utonium"],
+        "Creator": ["Craig McCracken"],
+        "Status":"Completed"
+     },
+    {
+        "id":82,
+        "CartoonName": "Johnny Bravo",
+        "MainCharacter": ["Johnny Bravo"],
+        "Creator": ["Van Partible"],
+        "Status": "Completed"
+ },
+    {
+        "id": 81,
+        "CartoonName": "Shiva",
+        "MainCharacter": [
+            "Shiva"
+        ],
+        "Creator": "Viacom 18,Cosmos Maya",
+        "Status": "ongoing"
+
+    }
 ]
