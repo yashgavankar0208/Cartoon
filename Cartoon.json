@@ -627,6 +627,14 @@
         "Status": "Completed"
  },
     {
+
+        "id": 82,
+        "CartoonName": "Scooby-Doo, Where Are You!",
+        "MainCharacter": ["Scooby-Doo","Shaggy Rogers", "Fred Jones", "Velma Dinkley", "Daphne Blake"],
+        "Creator": ["Joseph Barbera", "William Hanna"],
+        "Status": "Completed"
+ },
+{
         "id": 81,
 
         "CartoonName": "bugs Bunny",
