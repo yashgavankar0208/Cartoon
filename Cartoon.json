@@ -628,6 +628,21 @@
  },
     {
         "id": 81,
+
+        "CartoonName": "bugs Bunny",
+
+        "MainCharacter": [
+
+            "bunny,bugs,granny,daffy duck"
+
+        ],
+
+        "Creator": "chuck jones",
+
+        "Status": "ongoing"
+        },
+        {
+        "id": 81,
         "CartoonName": "The Powerpuff Girls",
         "MainCharacter": ["Buttercup", "Bubbles", "Mojo Jojo", "Blossom", "Miss Sara Bellum", "Professor Utonium"],
         "Creator": ["Craig McCracken"],
@@ -648,5 +663,6 @@
         ],
         "Creator": "Viacom 18,Cosmos Maya",
         "Status": "ongoing"
-    },
+
+    }
 ]
