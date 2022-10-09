@@ -680,4 +680,11 @@
         "Creator": ["Fujiko F. Fujio"],
         "Status": "Completed"
  }
+   {
+        "id":85,
+        "CartoonName": "Naruto",
+        "MainCharacter": ["Naruto Uzumaki","Sasuke","Sakura","Kakashi Sensei"],
+        "Creator": ["Masashi Kishimoto"],
+        "Status": "Completed"
+ }
 ]
