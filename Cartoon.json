@@ -681,8 +681,20 @@
         "Status": "Completed"
 
  },
+    {
+        "id": 84,
+        "CartoonName": "Future Diary",
+        "MainCharacter": [
+            "Yuno Gasai","Yukiteru Amano","Aru Akise"
+        ],
+        "Creator": "Sakae Esuno",
+        "Status": "Completed"
+    },
+
+
+ },
  {
-    "id":84,
+    "id":85,
     "CartoonName": "KiD vs KaT",
     "MainCharacter": ["Cooop"],
     "Creator": ["Rob Boutilier"],
@@ -696,5 +708,6 @@
         "Creator": "Jack Kinney",
         "Status": "completed"
     }
+
 
 ]
