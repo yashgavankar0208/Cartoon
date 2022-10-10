@@ -681,6 +681,15 @@
         "Status": "Completed"
 
  },
+   {
+        "id":85,
+        "CartoonName": "Naruto",
+        "MainCharacter": ["Naruto Uzumaki","Sasuke","Sakura","Kakashi Sensei"],
+        "Creator": ["Masashi Kishimoto"],
+        "Status": "Completed"
+ 
+
+ },
     {
         "id": 84,
         "CartoonName": "Future Diary",
@@ -708,6 +717,7 @@
         "Creator": "Jack Kinney",
         "Status": "completed"
     }
+
 
 
 ]
