@@ -679,6 +679,7 @@
         "MainCharacter": ["Kiteretsu"],
         "Creator": ["Fujiko F. Fujio"],
         "Status": "Completed"
+
  },
  {
     "id":84,
@@ -686,5 +687,14 @@
     "MainCharacter": ["Cooop"],
     "Creator": ["Rob Boutilier"],
     "Status": "Completed"
-}
+
+    },
+     {
+        "id": 90,
+        "CartoonName": "Popeye the Sailor",
+        "MainCharacter": ["Popeye","Brutus"],
+        "Creator": "Jack Kinney",
+        "Status": "completed"
+    }
+
 ]
